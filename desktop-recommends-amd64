@@ -1,6 +1,5 @@
 acpi-support
 adapta-gtk-theme
-arc-theme
 atril
 avahi-autoipd
 avahi-daemon
@@ -30,7 +29,6 @@ gnome-accessibility-themes
 gnome-bluetooth
 gnome-calculator
 gnome-chess
-gnome-font-viewer
 gnome-font-viewer
 gnome-mahjongg
 gnome-mpv
@@ -93,8 +91,6 @@ libreoffice-writer
 network-manager
 network-manager-config-connectivity-ubuntu
 network-manager-pptp-gnome
-numix-gtk-theme
-numix-icon-theme
 orca
 papirus-icon-theme
 p7zip-full
@@ -114,7 +110,6 @@ wdeutch
 wfrench
 wgerman
 wportuguese
-wrussian
 wrussian
 xcursor-themes
 xdg-utils

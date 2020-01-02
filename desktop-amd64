@@ -1,7 +1,6 @@
 acpi-support
 adduser
 alsa-base
-alsa-base
 alsa-utils
 anacron
 apt
@@ -25,7 +24,6 @@ doc-base
 eject
 fonts-arphic-ukai
 fonts-arphic-uming
-fonts-dejavu-core
 fonts-dejavu-core
 fonts-kacst-one
 fonts-noto-cjk
@@ -61,7 +59,6 @@ ibus-table-wubi
 ibus-unikey
 im-config
 init
-inputattach
 inputattach
 kerneloops
 language-pack-en
@@ -119,11 +116,9 @@ slick-greeter
 software-properties-gtk
 speech-dispatcher
 spice-vdagent
-spice-vdagent
 sudo
 tzdata
 ubuntu-advantage-tools
-ubuntu-drivers-common
 ubuntu-drivers-common
 ubuntu-keyring
 ubuntu-minimal
