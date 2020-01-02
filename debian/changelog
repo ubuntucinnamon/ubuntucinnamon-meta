@@ -1,7 +1,14 @@
+ubuntucinnamon-meta (0.1.2) focal; urgency=medium
+
+  * Added papirus-icon-theme
+  * Removed arc-theme, numix-gtk-theme, numix-icon-theme
+  * Removed duplicates in package lists and sorted alphabetically
+
+ -- Omkar Chandorkar <forumomkar@gmail.com>  Wed, 1 Jan 2020 17:24:48 +0530
+
 ubuntucinnamon-meta (0.1.1) focal; urgency=medium
 
   * Updated update.cfg from eoan to focal
-
   * Added more GTK themes
 
  -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Wed, 25 Dec 2019 15:57:57 -0500
@@ -9,7 +16,6 @@ ubuntucinnamon-meta (0.1.1) focal; urgency=medium
 ubuntucinnamon-meta (0.1) focal; urgency=medium
 
   * Updated eoan to focal
-
   * Moved packages from standard to standard-recommends (Solves issue #23)
 
  -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Fri, 13 Dec 2019 17:22:58 -0500
