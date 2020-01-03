@@ -22,6 +22,7 @@ fonts-noto-cjk
 fonts-sil-padauk
 fonts-ubuntu
 four-or-more
+friendly-recovery
 gedit
 gimp
 gnome-2048
@@ -97,12 +98,14 @@ p7zip-full
 packagekit
 policykit-desktop-privileges
 pulseaudio-module-bluetooth
+rsyslog
 simple-scan
 snapd
 speech-dispatcher
 thunderbird
 timeshot
 ubuntucinnamon-environment
+ubuntucinnamon-layout
 ubuntucinnamon-wallpapers
 update-notifier
 wamerican

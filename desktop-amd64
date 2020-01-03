@@ -110,7 +110,6 @@ python3
 resolvconf
 rfkill
 rsync
-rsyslog
 sensible-utils
 slick-greeter
 software-properties-gtk
