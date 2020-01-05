@@ -3,15 +3,18 @@ Section: metapackages
 Priority: optional
 Maintainer: Joshua Peisach <ubuntucinnamonremix7@gmail.com>
 Standards-Version: 4.4.0
-Homepage: https://github.com/ubuntucinnamonremix/ubuntucinnamon-meta
+Rules-Requires-Root: no
 Build-Depends: debhelper (>= 12), germinate (>= 2.32)
+Homepage: https://github.com/Ubuntu-Cinnamon-Remix/
+Vcs-Browser: https://github.com/Ubuntu-Cinnamon-Remix/ubuntucinnamon-meta
+Vcs-Git: https://github.com/Ubuntu-Cinnamon-Remix/ubuntucinnamon-meta.git
 
 Package: ubuntucinnamon-minimal
 Architecture: amd64 arm64
 Depends: ${misc:Depends}, ${germinate:Depends}
 Recommends: ${germinate:Recommends}
-Description: Minimal core of ubuntucinnamon OS
- This metapackage depends on all of the packages in the ubuntucinnamon minimal system,
+Description: Minimal core of Ubuntu Cinnamon
+ This metapackage depends on all of the packages in the Ubuntu Cinnamon minimal system,
  that is a functional command-line system with the following capabilities:
  .
   - Boot
@@ -27,8 +30,8 @@ Package: ubuntucinnamon-standard
 Architecture: amd64 arm64 armhf
 Depends: ${misc:Depends}, ${germinate:Depends}
 Recommends: ${germinate:Recommends}
-Description: CLI-only components of ubuntucinnamon OS
- This metapackage depends on most of non-GUI packages from ubuntucinnamon OS.
+Description: CLI-only components of Ubuntu Cinnamon
+ This metapackage depends on most of non-GUI packages from Ubuntu Cinnamon.
  .
  This set of packages provides a comfortable command-line Unix-like
  environment.
@@ -40,8 +43,8 @@ Package: ubuntucinnamon-desktop
 Architecture: amd64 arm64
 Depends: ${misc:Depends}, ${germinate:Depends}
 Recommends: ${germinate:Recommends}
-Description: Complete desktop of ubuntucinnamon OS
- This metapackage installs the complete ubuntucinnamon desktop.
+Description: Complete desktop of Ubuntu Cinnamon
+ This metapackage installs the complete Ubuntu Cinnamon desktop.
  .
  It is also used to help ensure proper upgrades, so it is recommended that
  it not be removed.
