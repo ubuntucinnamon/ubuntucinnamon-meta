@@ -1,1 +1,4 @@
-ubuntucinnamon-meta_0.1.4_source.buildinfo metapackages optional
+ubuntucinnamon-desktop_0.1.5_amd64.deb metapackages optional
+ubuntucinnamon-meta_0.1.5_amd64.buildinfo metapackages optional
+ubuntucinnamon-minimal_0.1.5_amd64.deb metapackages optional
+ubuntucinnamon-standard_0.1.5_amd64.deb metapackages optional

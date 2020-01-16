@@ -1,0 +1,4 @@
+germinate:Depends=busybox-static, cinnamon-core, cpio, cron, dmidecode, dnsutils, dosfstools, ed, file, friendly-recovery, ftp, hdparm, hfsutils, info, iptables, iputils-tracepath, language-selector-common, libpam-systemd, logrotate, lshw, lsof, ltrace, man-db, mime-support, mtr-tiny, nano, parted, pciutils, psmisc, rsync, strace, tcpdump, time, usbutils, wget
+germinate:Recommends=apparmor, apt, apt-utils, bash-completion, btrfs-tools, command-not-found, cryptsetup, friendly-recovery, iputils-tracepath, irqbalance, jfsutils, lvm2, manpages, mlocate, mtr-tiny, nano, ntfs-3g, openssh-client, plymouth, plymouth-theme-ubuntu-text, popularity-contest, tcpdump, telnet, ufw, update-manager-core, ureadahead, uuid-runtime
+misc:Depends=
+misc:Pre-Depends=

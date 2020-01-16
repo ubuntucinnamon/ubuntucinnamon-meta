@@ -1,0 +1,4 @@
+germinate:Depends=adduser, apt, apt-utils, bzip2, cinnamon-core, console-setup, debconf, debconf-i18n, eject, gcc, init, initramfs-tools, iproute2, iputils-ping, isc-dhcp-client, kmod, less, lightdm, locales, lsb-release, mount, netbase, netcat-openbsd, netplan.io, passwd, python3, sensible-utils, slick-greeter, sudo, tzdata, ubuntu-advantage-tools, ubuntu-keyring, udev, vim-tiny, whiptail
+germinate:Recommends=rsyslog
+misc:Depends=
+misc:Pre-Depends=
