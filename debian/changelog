@@ -1,3 +1,12 @@
+ubuntucinnamon-meta (0.1.5) focal; urgency=medium
+
+  * Added neccesary packages (gtk, USB software, etc.)
+  * Removed 'timeshot' (unknown)
+
+  * Added ubuntucinnamon-welcome, still in development. Please note that this may not install correctly due to this not being done yet.
+
+ -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Thu, 16 Jan 2020 08:44:23 -0500
+
 ubuntucinnamon-meta (0.1.4) focal; urgency=medium
 
   * Added Rules-Requires-Root

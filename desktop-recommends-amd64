@@ -33,6 +33,7 @@ gnome-chess
 gnome-font-viewer
 gnome-mahjongg
 gnome-mpv
+gnome-disks
 gnome-power-manager
 gnome-screenshot
 gnome-session-bin
@@ -89,6 +90,7 @@ libreoffice-gtk2
 libreoffice-gtk3
 libreoffice-impress
 libreoffice-writer
+neofetch
 network-manager
 network-manager-config-connectivity-ubuntu
 network-manager-pptp-gnome
@@ -101,12 +103,16 @@ pulseaudio-module-bluetooth
 rsyslog
 simple-scan
 snapd
+software-properties-common
+software-properties-gtk
 speech-dispatcher
+synaptic
 thunderbird
-timeshot
+timeshift
 ubuntucinnamon-environment
 ubuntucinnamon-layout
 ubuntucinnamon-wallpapers
+ubuntucinnamon-welcome
 update-notifier
 wamerican
 wdeutch
