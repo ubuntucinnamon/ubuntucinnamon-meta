@@ -1,6 +1,15 @@
+ubuntucinnamon-meta (0.1.5.1) focal; urgency=medium
+
+  * Removed timeshift (cmd line software, not GUI)
+  * Added deja-dup (better GUI software)
+
+  * Other changes: Fixed changelog typo (line 12, this update)
+
+ -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Tue, 21 Jan 2020 17:52:59 -0500
+
 ubuntucinnamon-meta (0.1.5) focal; urgency=medium
 
-  * Added neccesary packages (gtk, USB software, etc.)
+  * Added necessary packages (gtk, USB software, etc.)
   * Removed 'timeshot' (unknown)
 
   * Added ubuntucinnamon-welcome, still in development.
