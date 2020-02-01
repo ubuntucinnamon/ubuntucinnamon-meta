@@ -1,3 +1,11 @@
+ubuntucinnamon-meta (0.1.6) focal; urgency=medium
+
+  * Added gnome-icon-theme
+
+  * Added provides for ubuntucinnamon-minimal and desktop
+
+ -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Sat, 01 Feb 2020 18:07:42 -0500
+
 ubuntucinnamon-meta (0.1.5.1) focal; urgency=medium
 
   * Removed timeshift (cmd line software, not GUI)

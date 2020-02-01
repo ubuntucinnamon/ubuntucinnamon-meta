@@ -13,6 +13,7 @@ Package: ubuntucinnamon-minimal
 Architecture: amd64 arm64
 Depends: ${misc:Depends}, ${germinate:Depends}
 Recommends: ${germinate:Recommends}
+Provides: ubuntucinnamon-standard, cinnamon, cinnamon-desktop, cinnamon-desktop-environment
 Description: Minimal core of Ubuntu Cinnamon
  This metapackage depends on all of the packages in the Ubuntu Cinnamon minimal system,
  that is a functional command-line system with the following capabilities:
@@ -43,6 +44,7 @@ Package: ubuntucinnamon-desktop
 Architecture: amd64 arm64
 Depends: ${misc:Depends}, ${germinate:Depends}
 Recommends: ${germinate:Recommends}
+Provides: ubuntucinnamon-standard, ubuntucinnamon-minimal, cinnamon, cinnamon-desktop, cinnamon-desktop-environment
 Description: Complete desktop of Ubuntu Cinnamon
  This metapackage installs the complete Ubuntu Cinnamon desktop.
  .
