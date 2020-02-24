@@ -1,3 +1,11 @@
+ubuntucinnamon-meta (0.1.6.1) focal; urgency=medium
+
+  * Minor update due to repealing of update 0.1.5:
+  * Remove ubuntucinnamon-welcome
+  * Add cinnamon-folder-color
+
+ -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Mon, 24 Feb 2020 17:44:05 -0500
+
 ubuntucinnamon-meta (0.1.6) focal; urgency=medium
 
   * Added gnome-icon-theme

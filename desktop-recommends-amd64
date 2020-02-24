@@ -7,6 +7,7 @@ bluez
 bluez-cups
 brltty
 capnet-assist
+cinnamon-folder-color
 cups
 cups-bsd
 cups-client
@@ -15,12 +16,6 @@ dmz-cursor-theme
 evolution-data-server-outlook
 file-roller
 firefox
-fonts-arphic-ukai
-fonts-arphic-uming
-fonts-kacst-one
-fonts-noto-cjk
-fonts-sil-padauk
-fonts-ubuntu
 four-or-more
 friendly-recovery
 gedit
@@ -113,7 +108,6 @@ deja-dup
 ubuntucinnamon-environment
 ubuntucinnamon-layout
 ubuntucinnamon-wallpapers
-ubuntucinnamon-welcome
 update-notifier
 wamerican
 wdeutch
