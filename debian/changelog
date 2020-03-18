@@ -1,3 +1,9 @@
+ubuntucinnamon-meta (0.1.7) focal; urgency=medium
+
+  * Add new wallpapers
+
+ -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Wed, 18 Mar 2020 19:14:37 -0500
+
 ubuntucinnamon-meta (0.1.6.1) focal; urgency=medium
 
   * Minor update due to repealing of update 0.1.5:
