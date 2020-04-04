@@ -1,3 +1,10 @@
+ubuntucinnamon-meta (0.1.8.1) focal; urgency=medium
+
+  [Samuel Ryklin]
+  * Add gnome-calendar
+
+ -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Sat, 04 Apr 2020 18:02:33 -0500
+
 ubuntucinnamon-meta (0.1.8) focal; urgency=medium
 
   * Add gnome-system-monitor
