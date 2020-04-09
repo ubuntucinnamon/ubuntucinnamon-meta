@@ -17,3 +17,4 @@ qml-module-qtquick-layouts
 qml-module-qtquick-window2
 reiserfsprogs
 xfsprogs
+zram-config
