@@ -1,3 +1,11 @@
+ubuntucinnamon-meta (0.2) groovy; urgency=medium
+
+  * Welcome to the Groovy Gorilla! Let the fun begin!
+  * Bump standards version to 4.5.0
+  * Fix and update update.cfg
+
+ -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Fri, 24 Apr 2020 10:34:27 -0400
+
 ubuntucinnamon-meta (0.1.9) focal; urgency=medium
 
   [Samuel Ryklin]
