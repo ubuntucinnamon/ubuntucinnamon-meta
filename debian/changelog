@@ -1,3 +1,21 @@
+ubuntucinnamon-meta (0.2.1.1) groovy; urgency=medium
+
+  * Add ubuntucinnamon-spices
+
+ -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Fri, 08 May 2020 14:12:08 -0400
+
+ubuntucinnamon-meta (0.2.1) bullseye; urgency=medium
+
+  * Rebuild for debian repos
+
+ -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Sat, 25 Apr 2020 19:28:14 -0400
+
+ubuntucinnamon-meta (0.2.1) groovy; urgency=medium
+
+  * Upload failure-bump version for Launchpad
+
+ -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Fri, 24 Apr 2020 10:34:27 -0400
+
 ubuntucinnamon-meta (0.2) groovy; urgency=medium
 
   * Welcome to the Groovy Gorilla! Let the fun begin!
