@@ -8,6 +8,7 @@ bluez-cups
 brltty
 capnet-assist
 cinnamon-folder-color
+cinnamon-layout
 cups
 cups-bsd
 cups-client
@@ -108,8 +109,7 @@ synaptic
 thunderbird
 deja-dup
 ubuntucinnamon-environment
-ubuntucinnamon-layout
-ubuntucinnamon-spices
+ubuntucinnamon-spices-layout
 ubuntucinnamon-wallpapers
 ubuntucinnamon-wallpapers-focal
 update-notifier

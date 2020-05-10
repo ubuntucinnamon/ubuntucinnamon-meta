@@ -1,3 +1,10 @@
+ubuntucinnamon-meta (0.2.2.1) groovy; urgency=medium
+
+  * As request of Rik Shaw-misunderstanding of package:
+  * ubuntucinnamon-layout fork removal-now cinnamon-layout
+
+ -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Sun, 10 May 2020 13:17:05 -0400
+
 ubuntucinnamon-meta (0.2.2) groovy; urgency=medium
 
   * Welcome the actual environment to minimal
