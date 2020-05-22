@@ -1,3 +1,10 @@
+ubuntucinnamon-meta (0.2.4) groovy; urgency=medium
+
+  * Fix description over line character limits for minimal
+  * Add debhelper-compat as build dep
+
+ -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Fri, 22 May 2020 17:50:13 -0400
+
 ubuntucinnamon-meta (0.2.3) groovy; urgency=medium
 
   * Improve packaging
