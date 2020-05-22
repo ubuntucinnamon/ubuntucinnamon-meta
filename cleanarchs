@@ -1,0 +1,36 @@
+#!/bin/bash
+
+ARCHS=(amd64 arm64 armel armhf mips64el mipsel ppc64el s390x)
+FILES=(desktop desktop-recommends live minimal minimal-recommends standard standard-recommends)
+
+rm desktop-amd64
+rm desktop-arm64
+rm desktop-armel
+rm desktop-armhf
+rm desktop-mips64el
+rm desktop-mipsel
+rm desktop-ppc64el
+rm desktop-s390x
+
+rm minimal-amd64
+rm minimal-arm64
+rm minimal-armel
+rm minimal-armhf
+rm minimal-mips64el
+rm minimal-mipsel
+rm minimal-ppc64el
+rm minimal-s390x
+
+rm standard-amd64
+rm standard-arm64
+rm standard-armel
+rm standard-armhf
+rm standard-mips64el
+rm standard-mipsel
+rm standard-ppc64el
+rm standard-s390x
+
+rm desktop-recommends-*
+rm live-*
+rm minimal-recommends-*
+rm standard-recommends-*

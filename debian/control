@@ -4,7 +4,7 @@ Priority: optional
 Maintainer: Joshua Peisach <ubuntucinnamonremix7@gmail.com>
 Standards-Version: 4.5.0
 Rules-Requires-Root: no
-Build-Depends: debhelper (>= 12), germinate (>= 2.32)
+Build-Depends: debhelper (>= 11), germinate (>= 2.32)
 Homepage: https://github.com/Ubuntu-Cinnamon-Remix/
 Vcs-Browser: https://github.com/Ubuntu-Cinnamon-Remix/ubuntucinnamon-meta
 Vcs-Git: https://github.com/Ubuntu-Cinnamon-Remix/ubuntucinnamon-meta.git
