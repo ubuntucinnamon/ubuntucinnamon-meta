@@ -1,3 +1,10 @@
+ubuntucinnamon-meta (0.2.5) groovy; urgency=medium
+
+  * Replace apps with xapps
+  * Add our artwork packages
+
+ -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Mon, 22 Jun 2020 17:45:43 -0400
+
 ubuntucinnamon-meta (0.2.4) groovy; urgency=medium
 
   * Fix description over line character limits for minimal
