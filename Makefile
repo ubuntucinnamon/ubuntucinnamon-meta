@@ -2,7 +2,7 @@
 # distribution of the meta
 SHELL=/bin/bash
 
-VERSION=0.2.3
+VERSION=0.2.5
 DEST=../dist
 
 all:
