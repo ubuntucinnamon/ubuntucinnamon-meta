@@ -10,7 +10,7 @@ Vcs-Browser: https://github.com/Ubuntu-Cinnamon-Remix/ubuntucinnamon-meta
 Vcs-Git: https://github.com/Ubuntu-Cinnamon-Remix/ubuntucinnamon-meta.git
 
 Package: ubuntucinnamon-minimal
-Architecture: amd64 arm64
+Architecture: amd64 arm64 armel armhf mips64el mipsel ppc64el s390x
 Depends: ${misc:Depends}, ${germinate:Depends}
 Recommends: ${germinate:Recommends}
 Provides: ubuntucinnamon-standard, cinnamon, cinnamon-desktop, cinnamon-desktop-environment
@@ -29,7 +29,7 @@ Description: Minimal core of Ubuntu Cinnamon
  it not be removed.
 
 Package: ubuntucinnamon-standard
-Architecture: amd64 arm64 armhf
+Architecture: amd64 arm64 armel armhf mips64el mipsel ppc64el s390x
 Depends: ${misc:Depends}, ${germinate:Depends}
 Recommends: ${germinate:Recommends}
 Description: CLI-only components of Ubuntu Cinnamon
@@ -42,7 +42,7 @@ Description: CLI-only components of Ubuntu Cinnamon
  removed.
 
 Package: ubuntucinnamon-desktop
-Architecture: amd64 arm64
+Architecture: amd64 arm64 armel armhf mips64el mipsel ppc64el s390x
 Depends: ${misc:Depends}, ${germinate:Depends}
 Recommends: ${germinate:Recommends}
 Provides: ubuntucinnamon-standard, ubuntucinnamon-minimal, cinnamon, cinnamon-desktop, cinnamon-desktop-environment
