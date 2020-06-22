@@ -32,6 +32,7 @@ fonts-ubuntu
 foomatic-db-compressed-ppds
 ghostscript-x
 gnome-menus
+gnome-terminal
 gstreamer1.0-alsa
 gstreamer1.0-packagekit
 gstreamer1.0-plugins-base-apps
