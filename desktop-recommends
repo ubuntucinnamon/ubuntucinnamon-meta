@@ -93,6 +93,7 @@ orca
 papirus-icon-theme
 p7zip-full
 packagekit
+pix
 plymouth-theme-ubuntucinnamon-spinner
 policykit-desktop-privileges
 pulseaudio-module-bluetooth
@@ -120,3 +121,6 @@ wportuguese
 wrussian
 xcursor-themes
 xdg-utils
+xed
+xreader
+xviewer
