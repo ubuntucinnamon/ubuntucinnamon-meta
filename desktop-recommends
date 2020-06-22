@@ -1,5 +1,4 @@
 acpi-support
-atril
 avahi-autoipd
 avahi-daemon
 bluez
@@ -18,7 +17,6 @@ file-roller
 firefox
 four-or-more
 friendly-recovery
-gedit
 gimp
 gnome-2048
 gnome-accessibility-themes
@@ -38,7 +36,6 @@ gnome-software
 gnome-software-plugin-snap
 gnome-sudoku
 gnome-system-monitor
-gthumb
 htop
 hunspell-de-at-frami
 hunspell-de-ch-frami
@@ -96,6 +93,7 @@ orca
 papirus-icon-theme
 p7zip-full
 packagekit
+plymouth-theme-ubuntucinnamon-spinner
 policykit-desktop-privileges
 pulseaudio-module-bluetooth
 rsyslog
@@ -108,6 +106,8 @@ synaptic
 thunderbird
 deja-dup
 ubuntucinnamon-environment
+ubuntucinnamon-grub-theme
+ubuntucinnamon-lightdm-theme
 ubuntucinnamon-spices-layout
 ubuntucinnamon-wallpapers
 ubuntucinnamon-wallpapers-focal
