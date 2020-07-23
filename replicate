@@ -6,6 +6,8 @@ for a in ${ARCHS[*]};
 do
   for f in ${FILES[*]}
   do
+    filename=$f-$a
+    echo "Creating $filename"
     cp ${f[@]} ./${f}-${a}
   done
 done
