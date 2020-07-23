@@ -1,3 +1,12 @@
+ubuntucinnamon-meta (0.2.6) groovy; urgency=medium
+
+  * Add adwaita-icon-theme-full
+
+  * Build system: be smart with dh_auto_clean/build
+  * Build: Fix and be smart with Makefiles
+
+ -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Thu, 23 Jul 2020 12:45:15 -0400
+
 ubuntucinnamon-meta (0.2.5) groovy; urgency=medium
 
   * Replace apps with xapps
