@@ -2,13 +2,3 @@
 
 %:
 	dh $@ --with germinate
-
-dh_auto_build:
-	./replicate
-
-clean:
-	./replicate
-	dh_testdir
-	dh_auto_clean
-	dh_clean
-	./cleanarchs

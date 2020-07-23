@@ -8,6 +8,9 @@ DEST=../dist
 all:
 	./replicate
 
+clean:
+	./cleanarchs
+
 dist:
 	# since ran from bzr checkout, do not want to kill it...
 	# rm -rf .bzr
