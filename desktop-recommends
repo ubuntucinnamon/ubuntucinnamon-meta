@@ -5,8 +5,6 @@ bluez
 bluez-cups
 brltty
 capnet-assist
-cinnamon-folder-color
-cinnamon-layout-4-4
 cups
 cups-bsd
 cups-client
@@ -65,8 +63,8 @@ ibus-table-wubi
 ibus-unikey
 im-config
 kerneloops
-kimmo-gtk-theme-all
-kimmo-icon-theme-all
+kimmo-gtk-theme
+kimmo-icon-theme
 language-pack-de
 language-pack-es
 language-pack-fr
@@ -93,7 +91,6 @@ orca
 papirus-icon-theme
 p7zip-full
 packagekit
-pix
 plymouth-theme-ubuntucinnamon-spinner
 policykit-desktop-privileges
 pulseaudio-module-bluetooth
@@ -107,9 +104,8 @@ synaptic
 thunderbird
 deja-dup
 ubuntucinnamon-environment
-ubuntucinnamon-grub-theme
 ubuntucinnamon-lightdm-theme
-ubuntucinnamon-spices-layout
+ubuntucinnamon-spices
 ubuntucinnamon-wallpapers
 ubuntucinnamon-wallpapers-focal
 update-notifier
@@ -121,6 +117,3 @@ wportuguese
 wrussian
 xcursor-themes
 xdg-utils
-xed
-xreader
-xviewer
