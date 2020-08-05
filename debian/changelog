@@ -1,3 +1,9 @@
+ubuntucinnamon-meta (0.2.7) focal; urgency=medium
+
+  * Minimal: Remove -all suffix from themes
+
+ -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Wed, 05 Aug 2020 15:59:17 -0400
+
 ubuntucinnamon-meta (0.2.6.1~focal) focal; urgency=medium
 
   * Focal rebuild
