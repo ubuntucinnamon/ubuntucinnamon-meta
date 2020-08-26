@@ -1,8 +1,15 @@
+ubuntucinnamon-meta (0.2.8) groovy; urgency=medium
+
+  * Add xed
+  * Groovy rebuild for Feature Freeze
+
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Wed, 26 Aug 2020 13:30:06 -0400
+
 ubuntucinnamon-meta (0.2.7) focal; urgency=medium
 
   * Minimal: Remove -all suffix from themes
 
- -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Wed, 05 Aug 2020 15:59:17 -0400
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Wed, 05 Aug 2020 15:59:17 -0400
 
 ubuntucinnamon-meta (0.2.6.1~focal) focal; urgency=medium
 
@@ -12,7 +19,7 @@ ubuntucinnamon-meta (0.2.6.1~focal) focal; urgency=medium
   * Fix themes
   * Remove -layout suffix to spices
 
- -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Mon, 27 Jul 2020 11:44:39 -0400
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Mon, 27 Jul 2020 11:44:39 -0400
 
 ubuntucinnamon-meta (0.2.6) groovy; urgency=medium
 
@@ -21,21 +28,21 @@ ubuntucinnamon-meta (0.2.6) groovy; urgency=medium
   * Build system: be smart with dh_auto_clean/build
   * Build: Fix and be smart with Makefiles
 
- -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Thu, 23 Jul 2020 12:45:15 -0400
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Thu, 23 Jul 2020 12:45:15 -0400
 
 ubuntucinnamon-meta (0.2.5) groovy; urgency=medium
 
   * Replace apps with xapps
   * Add our artwork packages
 
- -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Mon, 22 Jun 2020 17:45:43 -0400
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Mon, 22 Jun 2020 17:45:43 -0400
 
 ubuntucinnamon-meta (0.2.4) groovy; urgency=medium
 
   * Fix description over line character limits for minimal
   * Add debhelper-compat as build dep
 
- -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Fri, 22 May 2020 17:50:13 -0400
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Fri, 22 May 2020 17:50:13 -0400
 
 ubuntucinnamon-meta (0.2.3) groovy; urgency=medium
 
@@ -46,45 +53,45 @@ ubuntucinnamon-meta (0.2.3) groovy; urgency=medium
   * Have a file replicate files for archs (./replicate)
   * Have a file clean up replicated files (./cleanarchs)
 
- -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Fri, 22 May 2020 00:02:29 -0400
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Fri, 22 May 2020 00:02:29 -0400
 
 ubuntucinnamon-meta (0.2.2.2) groovy; urgency=medium
 
   * cinnamon-layout -> cinnamon-layout-4-4
 
- -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Sun, 10 May 2020 16:38:47 -0400
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Sun, 10 May 2020 16:38:47 -0400
 
 ubuntucinnamon-meta (0.2.2.1) groovy; urgency=medium
 
   * As request of Rik Shaw-misunderstanding of package:
   * ubuntucinnamon-layout fork removal-now cinnamon-layout
 
- -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Sun, 10 May 2020 13:17:05 -0400
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Sun, 10 May 2020 13:17:05 -0400
 
 ubuntucinnamon-meta (0.2.2) groovy; urgency=medium
 
   * Welcome the actual environment to minimal
   * New updates to kimmo themes
 
- -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Sun, 10 May 2020 12:09:00 -0400
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Sun, 10 May 2020 12:09:00 -0400
 
 ubuntucinnamon-meta (0.2.1.1) groovy; urgency=medium
 
   * Add ubuntucinnamon-spices
 
- -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Fri, 08 May 2020 14:12:08 -0400
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Fri, 08 May 2020 14:12:08 -0400
 
 ubuntucinnamon-meta (0.2.1) bullseye; urgency=medium
 
   * Rebuild for debian repos
 
- -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Sat, 25 Apr 2020 19:28:14 -0400
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Sat, 25 Apr 2020 19:28:14 -0400
 
 ubuntucinnamon-meta (0.2.1) groovy; urgency=medium
 
   * Upload failure-bump version for Launchpad
 
- -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Fri, 24 Apr 2020 10:34:27 -0400
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Fri, 24 Apr 2020 10:34:27 -0400
 
 ubuntucinnamon-meta (0.2) groovy; urgency=medium
 
@@ -92,7 +99,7 @@ ubuntucinnamon-meta (0.2) groovy; urgency=medium
   * Bump standards version to 4.5.0
   * Fix and update update.cfg
 
- -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Fri, 24 Apr 2020 10:34:27 -0400
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Fri, 24 Apr 2020 10:34:27 -0400
 
 ubuntucinnamon-meta (0.1.9) focal; urgency=medium
 
@@ -102,26 +109,26 @@ ubuntucinnamon-meta (0.1.9) focal; urgency=medium
   [Joshua Peisach]
   * Remove gnome-disks, gnome-disk-utility is its proper name
 
- -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Thu, 09 Apr 2020 15:48:32 -0400
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Thu, 09 Apr 2020 15:48:32 -0400
 
 ubuntucinnamon-meta (0.1.8.1) focal; urgency=medium
 
   [Samuel Ryklin]
   * Add gnome-calendar
 
- -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Sat, 04 Apr 2020 18:02:33 -0500
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Sat, 04 Apr 2020 18:02:33 -0500
 
 ubuntucinnamon-meta (0.1.8) focal; urgency=medium
 
   * Add gnome-system-monitor
 
- -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Wed, 01 Apr 2020 17:13:26 -0500
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Wed, 01 Apr 2020 17:13:26 -0500
 
 ubuntucinnamon-meta (0.1.7) focal; urgency=medium
 
   * Add new wallpapers
 
- -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Wed, 18 Mar 2020 19:14:37 -0500
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Wed, 18 Mar 2020 19:14:37 -0500
 
 ubuntucinnamon-meta (0.1.6.1) focal; urgency=medium
 
@@ -129,7 +136,7 @@ ubuntucinnamon-meta (0.1.6.1) focal; urgency=medium
   * Remove ubuntucinnamon-welcome
   * Add cinnamon-folder-color
 
- -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Mon, 24 Feb 2020 17:44:05 -0500
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Mon, 24 Feb 2020 17:44:05 -0500
 
 ubuntucinnamon-meta (0.1.6) focal; urgency=medium
 
@@ -137,7 +144,7 @@ ubuntucinnamon-meta (0.1.6) focal; urgency=medium
 
   * Added provides for ubuntucinnamon-minimal and desktop
 
- -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Sat, 01 Feb 2020 18:07:42 -0500
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Sat, 01 Feb 2020 18:07:42 -0500
 
 ubuntucinnamon-meta (0.1.5.1) focal; urgency=medium
 
@@ -146,7 +153,7 @@ ubuntucinnamon-meta (0.1.5.1) focal; urgency=medium
 
   * Other changes: Fixed changelog typo (line 12, this update)
 
- -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Tue, 21 Jan 2020 17:52:59 -0500
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Tue, 21 Jan 2020 17:52:59 -0500
 
 ubuntucinnamon-meta (0.1.5) focal; urgency=medium
 
@@ -157,7 +164,7 @@ ubuntucinnamon-meta (0.1.5) focal; urgency=medium
   * Please note that this may not install correctly due to this not
   * being done yet.
 
- -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Thu, 16 Jan 2020 08:44:23 -0500
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Thu, 16 Jan 2020 08:44:23 -0500
 
 ubuntucinnamon-meta (0.1.4) focal; urgency=medium
 
@@ -168,14 +175,14 @@ ubuntucinnamon-meta (0.1.4) focal; urgency=medium
   * Made copyright Deb5 with GPL-2+ license
   * Added Canonical and Elementary to copyright
 
- -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Sat, 04 Jan 2020 19:20:58 -0500
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Sat, 04 Jan 2020 19:20:58 -0500
 
 ubuntucinnamon-meta (0.1.3) focal; urgency=medium
 
   * Moved rsyslog to desktop-recommends
   * Added ubuntucinnamon-layout to recommends
 
- -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Fri, 03 Jan 2020 17:08:28 -0500
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Fri, 03 Jan 2020 17:08:28 -0500
 
 ubuntucinnamon-meta (0.1.2) focal; urgency=medium
 
@@ -190,14 +197,14 @@ ubuntucinnamon-meta (0.1.1) focal; urgency=medium
   * Updated update.cfg from eoan to focal
   * Added more GTK themes
 
- -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Wed, 25 Dec 2019 15:57:57 -0500
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Wed, 25 Dec 2019 15:57:57 -0500
 
 ubuntucinnamon-meta (0.1) focal; urgency=medium
 
   * Updated eoan to focal
   * Moved packages from standard to standard-recommends (Solves issue #23)
 
- -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Fri, 13 Dec 2019 17:22:58 -0500
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Fri, 13 Dec 2019 17:22:58 -0500
 
 ubuntucinnamon-meta (0.0.9) eoan; urgency=medium
 
@@ -211,21 +218,21 @@ ubuntucinnamon-meta (0.0.9) eoan; urgency=medium
   * Removed chroot - live install
   * Renamed live
 
- -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Tue, 10 Dec 2019 17:11:28 -0500
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Tue, 10 Dec 2019 17:11:28 -0500
 
 ubuntucinnamon-meta (0.0.8) eoan; urgency=medium
 
   * Added gnome-software-plugin-snap as a recommend
   * Final version for 19.10
 
- -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Sat, 30 Nov 2019 14:44:08 -0500
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Sat, 30 Nov 2019 14:44:08 -0500
 
 ubuntucinnamon-meta (0.0.7) eoan; urgency=medium
 
   * Added firefox, snapd, dmz-cursor-black (Solves Issue #17)
   * Added required QML packages for calamares (Solves Issue #18)
 
- -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Sat, 30 Nov 2019 13:30:47 -0500
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Sat, 30 Nov 2019 13:30:47 -0500
 
 ubuntucinnamon-meta (0.0.6) eoan; urgency=medium
 
@@ -234,13 +241,13 @@ ubuntucinnamon-meta (0.0.6) eoan; urgency=medium
   * Removed EOM
   * Added thunderbird as a mail client to replace Geary
 
- -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Fri, 29 Nov 2019 12:09:50 -0500
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Fri, 29 Nov 2019 12:09:50 -0500
 
 ubuntucinnamon-meta (0.0.5) eoan; urgency=medium
 
   * Replaced Krita with GIMP to save disk space
 
- -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Sun, 24 Nov 2019 19:16:15 -0500
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Sun, 24 Nov 2019 19:16:15 -0500
 
 ubuntucinnamon-meta (0.0.4) eoan; urgency=medium
 
@@ -249,7 +256,7 @@ ubuntucinnamon-meta (0.0.4) eoan; urgency=medium
   * Added games
   * Added other questionable packages
 
- -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Tue, 19 Nov 2019 18:48:36 -0500
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Tue, 19 Nov 2019 18:48:36 -0500
 
 ubuntucinnamon-meta (0.0.3) eoan; urgency=medium
 
@@ -258,17 +265,17 @@ ubuntucinnamon-meta (0.0.3) eoan; urgency=medium
   * Revised installed language packs
   * Changed changelog time from -0400 to -0500 due to EDT to EST.
 
- -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Sat, 16 Nov 2019 17:56:18 -0500
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Sat, 16 Nov 2019 17:56:18 -0500
 
 ubuntucinnamon-meta (0.0.2) eoan; urgency=medium
 
   * Changed package dependencies/fixed neccessaries
   * Removed arm64 files
 
- -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Fri, 15 Nov 2019 20:25:59 -0500
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Fri, 15 Nov 2019 20:25:59 -0500
 
 ubuntucinnamon-meta (0.0.1) eoan; urgency=medium
 
   * Initial release-copied from Elementary OS meta packages and edited over.
 
- -- Joshua Peisach <ubuntucinnamonremix7@gmail.com>  Wed, 13 Nov 2019 21:15:34 -0500
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Wed, 13 Nov 2019 21:15:34 -0500
