@@ -9,6 +9,7 @@ cups
 cups-bsd
 cups-client
 cups-filters
+deja-dup
 dmz-cursor-theme
 evolution-data-server-outlook
 file-roller
@@ -102,7 +103,6 @@ software-properties-gtk
 speech-dispatcher
 synaptic
 thunderbird
-deja-dup
 ubuntucinnamon-environment
 ubuntucinnamon-lightdm-theme
 ubuntucinnamon-spices
@@ -115,5 +115,6 @@ wfrench
 wgerman
 wportuguese
 wrussian
+xed
 xcursor-themes
 xdg-utils
