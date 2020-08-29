@@ -5,12 +5,14 @@ bluez
 bluez-cups
 brltty
 capnet-assist
+clipman
 cups
 cups-bsd
 cups-client
 cups-filters
 deja-dup
 dmz-cursor-theme
+evince
 evolution-data-server-outlook
 file-roller
 firefox
@@ -28,6 +30,7 @@ gnome-font-viewer
 gnome-icon-theme
 gnome-mahjongg
 gnome-mpv
+gnome-photos
 gnome-power-manager
 gnome-screenshot
 gnome-session-bin
@@ -35,6 +38,7 @@ gnome-software
 gnome-software-plugin-snap
 gnome-sudoku
 gnome-system-monitor
+gthumb
 htop
 hunspell-de-at-frami
 hunspell-de-ch-frami
