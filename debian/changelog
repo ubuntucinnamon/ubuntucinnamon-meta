@@ -1,3 +1,10 @@
+ubuntucinnamon-meta (0.2.9) groovy; urgency=medium
+
+  * Readd gthumb, gnome-photos, evince
+  * Add clipman
+
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Sat, 29 Aug 2020 11:31:44 -0400
+
 ubuntucinnamon-meta (0.2.8) groovy; urgency=medium
 
   * Add xed
