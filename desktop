@@ -39,7 +39,7 @@ gstreamer1.0-packagekit
 gstreamer1.0-plugins-base-apps
 gstreamer1.0-pulseaudio
 gtk-im-libthai
-gvfs-bin
+libglib2.0-bin
 gvfs-fuse
 htop
 hunspell-en-au
