@@ -1,3 +1,10 @@
+ubuntucinnamon-meta (0.3.1) groovy; urgency=medium
+
+  * Revert last commit (Switch back to Kimmo)
+  * Switch from gvfs-bin to libglib2.0-bin for desktop
+
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Tue, 22 Sep 2020 20:00:23 -0400
+
 ubuntucinnamon-meta (0.3) groovy; urgency=medium
 
   * Switch out Kimmo themes for Arc/Numix
