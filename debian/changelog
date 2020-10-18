@@ -1,3 +1,9 @@
+ubuntucinnamon-meta (20.10.1) groovy; urgency=medium
+
+  * Minimal: Use groovy wallpapers instead of focal
+
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Sun, 18 Oct 2020 10:11:14 -0400
+
 ubuntucinnamon-meta (20.10) groovy; urgency=medium
 
   * Bump version up to 20.10 (distro specific package)
