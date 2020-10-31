@@ -89,6 +89,9 @@ libreoffice-gtk2
 libreoffice-gtk3
 libreoffice-impress
 libreoffice-writer
+nemo-fileroller
+nemo-font-manager
+nemo-gtkhash
 neofetch
 network-manager
 network-manager-config-connectivity-ubuntu
