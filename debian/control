@@ -2,7 +2,7 @@ Source: ubuntucinnamon-meta
 Section: metapackages
 Priority: optional
 Maintainer: Joshua Peisach <itzswirlz2020@outlook.com>
-Standards-Version: 4.5.0
+Standards-Version: 4.5.1
 Rules-Requires-Root: no
 Build-Depends: debhelper (>= 12), debhelper-compat (= 13), germinate (>= 2.32)
 Homepage: https://github.com/Ubuntu-Cinnamon-Remix/
@@ -13,7 +13,7 @@ Package: ubuntucinnamon-minimal
 Architecture: amd64 arm64 armel armhf mips64el mipsel ppc64el s390x
 Depends: ${misc:Depends}, ${germinate:Depends}
 Recommends: ${germinate:Recommends}
-Provides: ubuntucinnamon-standard, cinnamon, cinnamon-desktop, cinnamon-desktop-environment
+Provides: cinnamon, cinnamon-desktop, cinnamon-desktop-environment, ubuntucinnamon-standard
 Description: Minimal core of Ubuntu Cinnamon
  This metapackage depends on all of the packages in the Ubuntu Cinnamon
  minimal system, that is a functional command-line system with the
@@ -45,7 +45,7 @@ Package: ubuntucinnamon-desktop
 Architecture: amd64 arm64 armel armhf mips64el mipsel ppc64el s390x
 Depends: ${misc:Depends}, ${germinate:Depends}
 Recommends: ${germinate:Recommends}
-Provides: ubuntucinnamon-standard, ubuntucinnamon-minimal, cinnamon, cinnamon-desktop, cinnamon-desktop-environment
+Provides: cinnamon, cinnamon-desktop, cinnamon-desktop-environment, ubuntucinnamon-minimal, ubuntucinnamon-standard
 Description: Complete desktop of Ubuntu Cinnamon
  This metapackage installs the complete Ubuntu Cinnamon desktop.
  .
