@@ -80,6 +80,7 @@ libnss-mdns
 libpam-gnome-keyring
 libproxy1-plugin-gsettings
 libproxy1-plugin-networkmanager
+libreoffice
 libreoffice-calc
 libreoffice-draw
 libreoffice-gtk
