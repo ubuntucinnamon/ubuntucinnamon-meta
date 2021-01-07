@@ -9,43 +9,11 @@ Homepage: https://github.com/Ubuntu-Cinnamon-Remix/
 Vcs-Browser: https://github.com/Ubuntu-Cinnamon-Remix/ubuntucinnamon-meta
 Vcs-Git: https://github.com/Ubuntu-Cinnamon-Remix/ubuntucinnamon-meta.git
 
-Package: ubuntucinnamon-minimal
-Architecture: amd64 arm64 armel armhf mips64el mipsel ppc64el s390x
-Depends: ${misc:Depends}, ${germinate:Depends}
-Recommends: ${germinate:Recommends}
-Provides: cinnamon, cinnamon-desktop, cinnamon-desktop-environment, ubuntucinnamon-standard
-Description: Minimal core of Ubuntu Cinnamon
- This metapackage depends on all of the packages in the Ubuntu Cinnamon
- minimal system, that is a functional command-line system with the
- following capabilities:
- .
-  - Boot
-  - Detect hardware
-  - Connect to a network
-  - Install packages
-  - Perform basic diagnostics
- .
- It is also used to help ensure proper upgrades, so it is recommended that
- it not be removed.
-
-Package: ubuntucinnamon-standard
-Architecture: amd64 arm64 armel armhf mips64el mipsel ppc64el s390x
-Depends: ${misc:Depends}, ${germinate:Depends}
-Recommends: ${germinate:Recommends}
-Description: CLI-only components of Ubuntu Cinnamon
- This metapackage depends on most of non-GUI packages from Ubuntu Cinnamon.
- .
- This set of packages provides a comfortable command-line Unix-like
- environment.
- .
- It is used to ensure proper upgrades, so it is recommended that it not be
- removed.
-
 Package: ubuntucinnamon-desktop
 Architecture: amd64 arm64 armel armhf mips64el mipsel ppc64el s390x
 Depends: ${misc:Depends}, ${germinate:Depends}
 Recommends: ${germinate:Recommends}
-Provides: cinnamon, cinnamon-desktop, cinnamon-desktop-environment, ubuntucinnamon-minimal, ubuntucinnamon-standard
+Provides: cinnamon, cinnamon-desktop, cinnamon-desktop-environment
 Description: Complete desktop of Ubuntu Cinnamon
  This metapackage installs the complete Ubuntu Cinnamon desktop.
  .
