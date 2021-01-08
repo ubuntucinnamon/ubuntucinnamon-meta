@@ -99,7 +99,6 @@ orca
 papirus-icon-theme
 p7zip-full
 packagekit
-plymouth-theme-ubuntucinnamon-spinner
 policykit-desktop-privileges
 pulseaudio-module-bluetooth
 rhythmbox
@@ -111,10 +110,6 @@ software-properties-gtk
 speech-dispatcher
 synaptic
 thunderbird
-ubuntucinnamon-environment
-ubuntucinnamon-lightdm-theme
-ubuntucinnamon-wallpapers
-ubuntucinnamon-wallpapers-groovy
 update-notifier
 wamerican
 wdeutch
@@ -124,5 +119,3 @@ wportuguese
 wrussian
 xcursor-themes
 xdg-utils
-yaru-cinnamon-theme-gtk
-yaru-cinnamon-theme-icon
