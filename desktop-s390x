@@ -93,8 +93,7 @@ p7zip-full
 packagekit
 passwd
 pcmciautils
-plymouth-theme-ubuntu-logo
-plymouth-theme-ubuntu-text
+plymouth-theme-ubuntucinnamon-spinner
 policykit-desktop-privileges
 printer-driver-brlaser
 printer-driver-c2esp
@@ -123,6 +122,10 @@ ubuntu-advantage-tools
 ubuntu-drivers-common
 ubuntu-keyring
 ubuntu-minimal
+ubuntucinnamon-environment
+ubuntucinnamon-lightdm-theme
+ubuntucinnamon-wallpapers
+ubuntucinnamon-wallpapers-groovy
 udev
 unzip
 vim-tiny
@@ -135,5 +138,7 @@ xdg-user-dirs-gtk
 xdg-utils
 xkb-data
 xorg
+yaru-cinnamon-theme-gtk
+yaru-cinnamon-theme-icon
 zenity
 zip
