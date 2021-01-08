@@ -1,5 +1,6 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: ubuntucinnamon-meta
+Upstream-Contact: Joshua Peisach <itzswirlz2020@outlook.com>
 Source: https://github.com/Ubuntu-Cinnamon-Remix/ubuntucinnamon-meta
 
 Files: *
