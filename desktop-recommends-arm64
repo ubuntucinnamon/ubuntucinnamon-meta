@@ -1,10 +1,8 @@
-acpi-support
 avahi-autoipd
 avahi-daemon
 bluez
 bluez-cups
 brltty
-capnet-assist
 clipman
 cups
 cups-bsd
@@ -13,10 +11,8 @@ cups-filters
 deja-dup
 dmz-cursor-theme
 evince
-evolution-data-server-outlook
 file-roller
 firefox
-four-or-more
 friendly-recovery
 gedit
 gimp
@@ -112,10 +108,7 @@ synaptic
 thunderbird
 update-notifier
 wamerican
-wdeutch
 wfrench
-wgerman
 wportuguese
-wrussian
 xcursor-themes
 xdg-utils
