@@ -1,3 +1,18 @@
+ubuntucinnamon-meta (22.07) kinetic; urgency=medium
+
+  * Kinetic rebuild
+  * Huge seed cleanup
+    - language-pack-* removed
+    - gnome-photos removed, use gthumb
+    - ibus-* cleanup
+    - libreoffice-gtk2 removed
+    - gnome-icon-theme removed
+    - fonts cleanup
+    - hunspell-* removed
+  * Update copyright
+
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Mon, 11 Jul 2022 12:18:26 -0400
+
 ubuntucinnamon-meta (22.04.1) jammy; urgency=medium
 
   * Set wallpapers to jammy
