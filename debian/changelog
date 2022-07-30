@@ -1,3 +1,10 @@
+ubuntucinnamon-meta (22.07.1) kinetic; urgency=medium
+
+  * Don't depend on acpi-support (LP: #1983103)
+  * d/control: Remove provides line (LP: #1983101)
+
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Sat, 30 Jul 2022 08:49:23 -0400
+
 ubuntucinnamon-meta (22.07) kinetic; urgency=medium
 
   * Kinetic rebuild
