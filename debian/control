@@ -13,7 +13,6 @@ Package: ubuntucinnamon-desktop
 Architecture: amd64 arm64 mips64el ppc64el s390x
 Depends: ${misc:Depends}, ${germinate:Depends}
 Recommends: ${germinate:Recommends}
-Provides: cinnamon, cinnamon-desktop, cinnamon-desktop-environment
 Description: Complete desktop of Ubuntu Cinnamon
  This metapackage installs the complete Ubuntu Cinnamon desktop.
  .
