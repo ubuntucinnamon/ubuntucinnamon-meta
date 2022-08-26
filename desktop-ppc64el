@@ -38,7 +38,6 @@ gstreamer1.0-pulseaudio
 gtk-im-libthai
 libglib2.0-bin
 gvfs-fuse
-htop
 ibus
 ibus-gtk
 ibus-gtk3

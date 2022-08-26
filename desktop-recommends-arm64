@@ -10,7 +10,6 @@ cups-client
 cups-filters
 deja-dup
 dmz-cursor-theme
-evince
 file-roller
 firefox
 friendly-recovery
@@ -34,7 +33,6 @@ gnome-software-plugin-snap
 gnome-sudoku
 gnome-system-monitor
 gthumb
-htop
 ibus
 ibus-gtk
 ibus-gtk3
@@ -47,7 +45,6 @@ libnss-mdns
 libpam-gnome-keyring
 libproxy1-plugin-gsettings
 libproxy1-plugin-networkmanager
-libreoffice
 libreoffice-calc
 libreoffice-draw
 libreoffice-gtk
@@ -55,7 +52,6 @@ libreoffice-gtk3
 libreoffice-impress
 libreoffice-writer
 nemo-fileroller
-nemo-font-manager
 neofetch
 network-manager
 network-manager-config-connectivity-ubuntu
