@@ -1,3 +1,15 @@
+ubuntucinnamon-meta (22.08) kinetic; urgency=medium
+
+  * More seed cleanup
+    - evince removed, use simple-scan
+    - nemo-font-manager, installs extra bloat
+    - libreoffice, we specifically say what packages we want
+    - htop, creates extra menu entry
+  * Remove acpi-support in packages
+    - Dropped with kinetic release
+
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Sat, 27 Aug 2022 12:19:13 -0400
+
 ubuntucinnamon-meta (22.07) kinetic; urgency=medium
 
   * Kinetic rebuild
