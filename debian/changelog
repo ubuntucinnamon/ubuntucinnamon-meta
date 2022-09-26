@@ -1,3 +1,147 @@
+ubuntucinnamon-meta (22.10) kinetic; urgency=medium
+
+  * fix germinate for once and for all
+  * stop building for unsupported archs
+
+  * Refreshed dependencies
+  * Added cinnamon-desktop-environment to desktop
+  * Added evince to desktop-recommends
+  * Added fonts-dejavu-core to desktop
+  * Added fonts-freefont-ttf to desktop
+  * Added fonts-indic to desktop-recommends
+  * Added fonts-khmeros-core to desktop-recommends
+  * Added fonts-lao to desktop-recommends
+  * Added fonts-liberation to desktop-recommends
+  * Added fonts-lklug-sinhala to desktop-recommends
+  * Added fonts-sil-abyssinica to desktop-recommends
+  * Added fonts-thai-tlwg to desktop-recommends
+  * Added fonts-tibetan-machine to desktop-recommends
+  * Added fwupd to desktop-recommends
+  * Added fwupd-signed to desktop-recommends [amd64 arm64]
+  * Added gnome-icon-theme to desktop-recommends
+  * Added gnome-photos to desktop-recommends
+  * Added hplip to desktop-recommends
+  * Added language-pack-de to desktop-recommends
+  * Added language-pack-es to desktop-recommends
+  * Added language-pack-fr to desktop-recommends
+  * Added language-pack-pt to desktop-recommends
+  * Added language-pack-ru to desktop-recommends
+  * Added language-selector-common to desktop
+  * Added libsasl2-modules to desktop
+  * Added memtest86+ to desktop-recommends [amd64]
+  * Added nemo to desktop
+  * Added network-manager-gnome to desktop
+  * Added whoopsie to desktop
+  * Removed adduser from desktop
+  * Removed adwaita-icon-theme-full from desktop
+  * Removed apt from desktop
+  * Removed apt-utils from desktop
+  * Removed at-spi2-core from desktop
+  * Removed avahi-autoipd from desktop, desktop-recommends
+  * Removed avahi-daemon from desktop
+  * Removed bash-completion from desktop
+  * Removed bluez from desktop
+  * Removed bluez-cups from desktop
+  * Removed brltty from desktop, desktop-recommends
+  * Removed capnet-assist from desktop-recommends [amd64 ppc64el s390x]
+  * Removed cinnamon-core from desktop
+  * Removed clipman from desktop-recommends
+  * Removed cups from desktop
+  * Removed cups-bsd from desktop
+  * Removed cups-client from desktop
+  * Removed cups-filters from desktop
+  * Removed dmz-cursor-theme from desktop-recommends
+  * Removed eject from desktop
+  * Removed evolution-data-server-outlook from desktop-recommends [amd64
+    ppc64el s390x]
+  * Removed firefox from desktop-recommends
+  * Removed four-or-more from desktop-recommends [amd64 ppc64el s390x]
+  * Removed friendly-recovery from desktop-recommends
+  * Removed gnome-menus from desktop
+  * Removed gnome-terminal from desktop
+  * Removed gstreamer1.0-alsa from desktop
+  * Removed gstreamer1.0-packagekit from desktop
+  * Removed gstreamer1.0-plugins-base-apps from desktop
+  * Removed gstreamer1.0-pulseaudio from desktop
+  * Removed gtk-im-libthai from desktop
+  * Removed ibus from desktop-recommends
+  * Removed ibus-gtk from desktop-recommends
+  * Removed ibus-gtk3 from desktop-recommends
+  * Removed ibus-table from desktop-recommends
+  * Removed im-config from desktop, desktop-recommends
+  * Removed init from desktop
+  * Removed kerneloops from desktop
+  * Removed language-pack-en from desktop
+  * Removed laptop-detect from desktop
+  * Removed libatk-adaptor from desktop
+  * Removed libgail-common from desktop, desktop-recommends
+  * Removed libglib2.0-bin from desktop
+  * Removed libnotify-bin from desktop
+  * Removed libnss-mdns from desktop
+  * Removed libpam-gnome-keyring from desktop, desktop-recommends
+  * Removed libproxy1-plugin-gsettings from desktop, desktop-recommends
+  * Removed libproxy1-plugin-networkmanager from desktop, desktop-
+    recommends
+  * Removed libwmf0.2-7-gtk from desktop
+  * Removed locales from desktop
+  * Removed lsb-release from desktop
+  * Removed mount from desktop
+  * Removed mousetweaks from desktop
+  * Removed nano from desktop
+  * Removed net-tools from desktop
+  * Removed netbase from desktop
+  * Removed netcat-openbsd from desktop
+  * Removed netplan.io from desktop
+  * Removed network-manager from desktop-recommends
+  * Removed network-manager-config-connectivity-ubuntu from desktop,
+    desktop-recommends
+  * Removed network-manager-pptp-gnome from desktop, desktop-recommends
+  * Removed orca from desktop-recommends
+  * Removed p7zip-full from desktop, desktop-recommends
+  * Removed packagekit from desktop
+  * Removed papirus-icon-theme from desktop-recommends
+  * Removed passwd from desktop
+  * Removed policykit-desktop-privileges from desktop
+  * Removed pulseaudio-module-bluetooth from desktop-recommends
+  * Removed python3 from desktop
+  * Removed resolvconf from desktop
+  * Removed rsync from desktop
+  * Removed rsyslog from desktop-recommends
+  * Removed sensible-utils from desktop
+  * Removed software-properties-common from desktop-recommends
+  * Removed software-properties-gtk from desktop-recommends
+  * Removed speech-dispatcher from desktop
+  * Removed sudo from desktop
+  * Removed tzdata from desktop
+  * Removed ubuntu-advantage-tools from desktop
+  * Removed ubuntu-keyring from desktop
+  * Removed ubuntu-minimal from desktop
+  * Removed ubuntucinnamon-wallpapers-jammy from desktop
+  * Removed udev from desktop
+  * Removed vim-tiny from desktop
+  * Removed whiptail from desktop
+  * Removed xcursor-themes from desktop, desktop-recommends
+  * Removed xdg-user-dirs-gtk from desktop
+  * Removed xdg-utils from desktop-recommends
+  * Removed zenity from desktop
+  * Moved fonts-kacst-one to desktop-recommends
+  * Moved fonts-noto-cjk to desktop-recommends
+  * Moved fonts-sil-padauk to desktop-recommends
+  * Moved fonts-ubuntu to desktop-recommends
+  * Moved gnome-bluetooth-sendto to desktop
+  * Moved pcmciautils to desktop-recommends
+  * Moved printer-driver-brlaser to desktop-recommends
+  * Moved printer-driver-c2esp to desktop-recommends
+  * Moved printer-driver-foo2zjs to desktop-recommends
+  * Moved printer-driver-m2300w to desktop-recommends
+  * Moved printer-driver-min12xxw to desktop-recommends
+  * Moved printer-driver-ptouch to desktop-recommends
+  * Moved printer-driver-pxljr to desktop-recommends
+  * Moved printer-driver-sag-gdi to desktop-recommends
+  * Moved printer-driver-splix to desktop-recommends
+
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Mon, 26 Sep 2022 14:00:00 -0400
+
 ubuntucinnamon-meta (22.08) kinetic; urgency=medium
 
   * More seed cleanup
