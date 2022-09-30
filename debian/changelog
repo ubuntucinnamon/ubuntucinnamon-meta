@@ -1,7 +1,7 @@
 ubuntucinnamon-meta (22.10.2) kinetic; urgency=medium
 
   * Refreshed dependencies
-  * Added ubuntucinnamon-wallpapers-kinetic to desktop
+  * Added ubuntucinnamon-wallpapers-kinetic to desktop (LP: #1991428)
 
  -- Joshua Peisach <itzswirlz2020@outlook.com>  Fri, 30 Sep 2022 18:32:58 -0400
 
