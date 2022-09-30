@@ -1,3 +1,10 @@
+ubuntucinnamon-meta (22.10.2) kinetic; urgency=medium
+
+  * Refreshed dependencies
+  * Added ubuntucinnamon-wallpapers-kinetic to desktop
+
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Fri, 30 Sep 2022 18:32:58 -0400
+
 ubuntucinnamon-meta (22.10) kinetic; urgency=medium
 
   * fix germinate for once and for all
