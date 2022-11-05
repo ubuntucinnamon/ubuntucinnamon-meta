@@ -1,3 +1,9 @@
+ubuntucinnamon-meta (23.04) lunar; urgency=medium
+
+  * Update to lunar seed
+
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Sat, 05 Nov 2022 17:22:54 -0400
+
 ubuntucinnamon-meta (22.10.2) kinetic; urgency=medium
 
   * Refreshed dependencies
