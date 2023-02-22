@@ -26,10 +26,9 @@ network-manager
 network-manager-gnome
 openprinting-ppds
 orca
+pipewire-audio
 plymouth-theme-ubuntucinnamon-spinner
 printer-driver-pnm2ppa
-pulseaudio
-pulseaudio-module-bluetooth
 rfkill
 slick-greeter
 software-properties-gtk
