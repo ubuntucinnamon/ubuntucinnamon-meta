@@ -10,7 +10,6 @@ fonts-dejavu-core
 fonts-freefont-ttf
 foomatic-db-compressed-ppds
 ghostscript-x
-gnome-bluetooth-sendto
 gvfs-fuse
 ibus
 ibus-gtk
@@ -23,7 +22,6 @@ libu2f-udev
 lightdm
 nemo
 network-manager
-network-manager-gnome
 openprinting-ppds
 orca
 pipewire-audio

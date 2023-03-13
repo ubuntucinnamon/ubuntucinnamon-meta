@@ -1,3 +1,12 @@
+ubuntucinnamon-meta (23.04.2) lunar; urgency=medium
+
+  * Refreshed dependencies
+  * Removed gnome-bluetooth-sendto from desktop
+  * Removed gnome-session-bin from desktop-recommends
+  * Removed network-manager-gnome from desktop
+
+ -- Łukasz 'sil2100' Zemczak <lukasz.zemczak@ubuntu.com>  Mon, 13 Mar 2023 09:41:12 +0100
+
 ubuntucinnamon-meta (23.04.1) lunar; urgency=medium
 
   * Refreshed dependencies
