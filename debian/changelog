@@ -1,3 +1,12 @@
+ubuntucinnamon-meta (23.04.4) lunar; urgency=medium
+
+  * Refreshed dependencies
+  * Added yaru-theme-gtk to desktop
+  * Added yaru-theme-icon to desktop
+  * Added yaru-theme-sound to desktop
+
+ -- Steve Langasek <steve.langasek@ubuntu.com>  Mon, 10 Apr 2023 17:50:36 +0000
+
 ubuntucinnamon-meta (23.04.3) lunar; urgency=medium
 
   * Refreshed dependencies
