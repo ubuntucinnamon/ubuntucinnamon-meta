@@ -1,3 +1,65 @@
+ubuntucinnamon-meta (23.10.2) mantic; urgency=medium
+
+  * Refreshed dependencies
+  * Added fonts-dejavu-mono to desktop-recommends
+  * Added fonts-noto-color-emoji to desktop-recommends
+  * Added foomatic-db-compressed-ppds to desktop
+  * Added hplip to desktop-recommends
+  * Added openprinting-ppds to desktop
+  * Removed fonts-dejavu-core from desktop
+  * Removed fonts-freefont-ttf from desktop
+  * Moved bluez-cups to desktop-recommends
+  * Moved cups to desktop-recommends
+  * Moved cups-bsd to desktop-recommends
+  * Moved cups-client to desktop-recommends
+  * Moved cups-filters to desktop-recommends
+  * Moved printer-driver-brlaser to desktop-recommends
+  * Moved printer-driver-c2esp to desktop-recommends
+  * Moved printer-driver-foo2zjs to desktop-recommends
+  * Moved printer-driver-m2300w to desktop-recommends
+  * Moved printer-driver-min12xxw to desktop-recommends
+  * Moved printer-driver-ptouch to desktop-recommends
+  * Moved printer-driver-pxljr to desktop-recommends
+  * Moved printer-driver-sag-gdi to desktop-recommends
+  * Moved printer-driver-splix to desktop-recommends
+
+ -- Jeremy Bícha <jbicha@ubuntu.com>  Thu, 24 Aug 2023 12:47:15 -0400
+
+ubuntucinnamon-meta (23.10.1) mantic; urgency=medium
+
+  * Update to mantic.
+  * Remove unnecessary use of authenticated urls for seed base in update.cfg.
+  * Refreshed dependencies
+  * Added fonts-noto-core to desktop-recommends
+  * Removed fonts-indic from desktop-recommends
+  * Removed fonts-kacst-one from desktop-recommends
+  * Removed fonts-khmeros-core from desktop-recommends
+  * Removed fonts-lao from desktop-recommends
+  * Removed fonts-lklug-sinhala from desktop-recommends
+  * Removed fonts-sil-abyssinica from desktop-recommends
+  * Removed fonts-sil-padauk from desktop-recommends
+  * Removed fonts-thai-tlwg from desktop-recommends
+  * Removed fonts-tibetan-machine from desktop-recommends
+  * Removed foomatic-db-compressed-ppds from desktop
+  * Removed hplip from desktop-recommends
+  * Removed openprinting-ppds from desktop
+  * Moved bluez-cups to desktop
+  * Moved cups to desktop
+  * Moved cups-bsd to desktop
+  * Moved cups-client to desktop
+  * Moved cups-filters to desktop
+  * Moved printer-driver-brlaser to desktop
+  * Moved printer-driver-c2esp to desktop
+  * Moved printer-driver-foo2zjs to desktop
+  * Moved printer-driver-m2300w to desktop
+  * Moved printer-driver-min12xxw to desktop
+  * Moved printer-driver-ptouch to desktop
+  * Moved printer-driver-pxljr to desktop
+  * Moved printer-driver-sag-gdi to desktop
+  * Moved printer-driver-splix to desktop
+
+ -- Steve Langasek <steve.langasek@ubuntu.com>  Sat, 05 Aug 2023 19:03:43 +0000
+
 ubuntucinnamon-meta (23.04.4) lunar; urgency=medium
 
   * Refreshed dependencies
