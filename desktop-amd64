@@ -6,6 +6,7 @@ ca-certificates
 cinnamon
 cinnamon-desktop-environment
 doc-base
+fontconfig
 foomatic-db-compressed-ppds
 ghostscript-x
 gvfs-fuse
@@ -33,7 +34,7 @@ ubuntu-drivers-common
 ubuntucinnamon-environment
 ubuntucinnamon-lightdm-theme
 ubuntucinnamon-wallpapers
-ubuntucinnamon-wallpapers-lunar
+ubuntucinnamon-wallpapers-mantic
 unzip
 whoopsie
 wireless-tools
