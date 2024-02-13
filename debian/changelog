@@ -1,3 +1,70 @@
+ubuntucinnamon-meta (24.04.1) noble; urgency=medium
+
+  * Welcome to Noble Numbat!
+  * Refreshed dependencies
+  * Added desktop-minimal
+  * Removed alsa-base from desktop [arm64 ppc64el s390x]
+  * Removed alsa-utils from desktop [arm64 ppc64el s390x]
+  * Removed anacron from desktop [arm64 ppc64el s390x]
+  * Removed avahi-daemon from desktop-recommends
+  * Removed bc from desktop [arm64 ppc64el s390x]
+  * Removed bluez from desktop-recommends
+  * Removed bluez-cups from desktop-recommends
+  * Removed ca-certificates from desktop [arm64 ppc64el s390x]
+  * Removed cups from desktop-recommends
+  * Removed cups-bsd from desktop-recommends
+  * Removed cups-client from desktop-recommends
+  * Removed cups-filters from desktop-recommends
+  * Removed fontconfig from desktop [arm64 ppc64el s390x]
+  * Removed fonts-dejavu-mono from desktop-recommends
+  * Removed fonts-liberation from desktop-recommends
+  * Removed fonts-noto-cjk from desktop-recommends
+  * Removed fonts-noto-color-emoji from desktop-recommends
+  * Removed fonts-noto-core from desktop-recommends
+  * Removed fonts-ubuntu from desktop-recommends
+  * Removed foomatic-db-compressed-ppds from desktop [arm64 ppc64el
+    s390x]
+  * Removed fwupd from desktop-recommends
+  * Removed fwupd-signed from desktop-recommends [amd64 arm64]
+  * Removed ghostscript-x from desktop [arm64 ppc64el s390x]
+  * Removed gnome-mpv from desktop-recommends
+  * Removed gnome-photos from desktop-recommends
+  * Removed hplip from desktop-recommends
+  * Removed inputattach from desktop [arm64 ppc64el s390x]
+  * Removed kerneloops from desktop-recommends
+  * Removed language-selector-common from desktop [arm64 ppc64el s390x]
+  * Removed laptop-detect from desktop-recommends
+  * Removed libnss-mdns from desktop-recommends
+  * Removed libsasl2-modules from desktop [arm64 ppc64el s390x]
+  * Removed libu2f-udev from desktop [arm64 ppc64el s390x]
+  * Removed memtest86+ from desktop-recommends [amd64]
+  * Removed openprinting-ppds from desktop [arm64 ppc64el s390x]
+  * Removed packagekit from desktop-recommends
+  * Removed pcmciautils from desktop-recommends
+  * Removed policykit-desktop-privileges from desktop-recommends
+  * Removed printer-driver-brlaser from desktop-recommends
+  * Removed printer-driver-c2esp from desktop-recommends
+  * Removed printer-driver-foo2zjs from desktop-recommends
+  * Removed printer-driver-m2300w from desktop-recommends
+  * Removed printer-driver-min12xxw from desktop-recommends
+  * Removed printer-driver-pnm2ppa from desktop [arm64 ppc64el s390x]
+  * Removed printer-driver-ptouch from desktop-recommends
+  * Removed printer-driver-pxljr from desktop-recommends
+  * Removed printer-driver-sag-gdi from desktop-recommends
+  * Removed printer-driver-splix from desktop-recommends
+  * Removed rfkill from desktop [arm64 ppc64el s390x]
+  * Removed snapd from desktop-recommends
+  * Removed spice-vdagent from desktop [arm64 ppc64el s390x]
+  * Removed ubuntu-drivers-common from desktop [arm64 ppc64el s390x]
+  * Removed unzip from desktop [arm64 ppc64el s390x]
+  * Removed wireless-tools from desktop [arm64 ppc64el s390x]
+  * Removed wpasupplicant from desktop [arm64 ppc64el s390x]
+  * Removed xkb-data from desktop [arm64 ppc64el s390x]
+  * Removed xorg from desktop [arm64 ppc64el s390x]
+  * Removed zip from desktop [arm64 ppc64el s390x]
+
+ -- Erich Eickmeyer <eeickmeyer@ubuntu.com>  Tue, 13 Feb 2024 14:23:44 -0800
+
 ubuntucinnamon-meta (23.10.3) mantic; urgency=medium
 
   * Refreshed dependencies
