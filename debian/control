@@ -19,3 +19,14 @@ Description: Complete desktop of Ubuntu Cinnamon
  .
  It is also used to help ensure proper upgrades, so it is recommended that
  it not be removed.
+
+Package: ubuntucinnamon-desktop-minimal
+Architecture: amd64 arm64 mips64el ppc64el s390x
+Depends: ${misc:Depends}, ${germinate:Depends}
+Recommends: ${germinate:Recommends}
+Provides: cinnamon, cinnamon-desktop, cinnamon-desktop-environment
+Description: Minimal desktop of Ubuntu Cinnamon
+ This metapackage installs the minimal Ubuntu Cinnamon desktop.
+ .
+ It is also used to help ensure proper upgrades, so it is recommended that
+ it not be removed.
