@@ -15,6 +15,7 @@ ibus
 ibus-gtk
 ibus-gtk3
 ibus-table
+initramfs-tools
 inputattach
 language-selector-common
 libsasl2-modules

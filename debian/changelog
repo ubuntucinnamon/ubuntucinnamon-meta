@@ -1,3 +1,11 @@
+ubuntucinnamon-meta (24.04.2) noble; urgency=medium
+
+  * Refreshed dependencies
+  * Added initramfs-tools to desktop, desktop-minimal
+  * Added ubuntucinnamon-desktop-minimal to desktop
+
+ -- Erich Eickmeyer <eeickmeyer@ubuntu.com>  Mon, 19 Feb 2024 11:44:01 -0800
+
 ubuntucinnamon-meta (24.04.1) noble; urgency=medium
 
   * Welcome to Noble Numbat!

@@ -6,6 +6,7 @@ ibus
 ibus-gtk
 ibus-gtk3
 ibus-table
+initramfs-tools
 lightdm
 nemo
 network-manager
@@ -14,6 +15,7 @@ pipewire-audio
 plymouth-theme-ubuntucinnamon-spinner
 slick-greeter
 software-properties-gtk
+ubuntucinnamon-desktop-minimal
 ubuntucinnamon-environment
 ubuntucinnamon-lightdm-theme
 ubuntucinnamon-wallpapers
