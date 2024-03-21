@@ -1,3 +1,14 @@
+ubuntucinnamon-meta (24.04.3) noble; urgency=medium
+
+  * Refreshed dependencies
+  * Added ubuntu-advantage-tools to desktop, desktop-minimal
+  * Removed thunderbird from desktop-minimal-recommends, desktop-
+    recommends
+  * Removed ubuntucinnamon-wallpapers-mantic from desktop, desktop-
+    minimal
+
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Wed, 20 Mar 2024 21:12:27 -0400
+
 ubuntucinnamon-meta (24.04.2) noble; urgency=medium
 
   * Refreshed dependencies
