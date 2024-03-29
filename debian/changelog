@@ -1,3 +1,10 @@
+ubuntucinnamon-meta (24.04.3.1) noble; urgency=medium
+
+  * Refreshed dependencies
+  * Added ubuntucinnamon-wallpapers-noble to desktop, desktop-minimal
+
+ -- Brian Murray <brian@ubuntu.com>  Fri, 29 Mar 2024 15:44:22 -0700
+
 ubuntucinnamon-meta (24.04.3) noble; urgency=medium
 
   * Refreshed dependencies
