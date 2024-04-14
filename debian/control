@@ -1,7 +1,8 @@
 Source: ubuntucinnamon-meta
 Section: metapackages
 Priority: optional
-Maintainer: Joshua Peisach <itzswirlz2020@outlook.com>
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+XSBC-Original-Maintainer: Joshua Peisach <itzswirlz2020@outlook.com>
 Standards-Version: 4.6.0
 Rules-Requires-Root: no
 Build-Depends: debhelper-compat (= 13), germinate (>= 2.32)

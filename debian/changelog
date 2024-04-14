@@ -1,3 +1,9 @@
+ubuntucinnamon-meta (24.04.3.1build1) noble; urgency=medium
+
+  * No-change rebuild for CVE-2024-3094
+
+ -- Steve Langasek <steve.langasek@ubuntu.com>  Sun, 31 Mar 2024 17:21:31 +0000
+
 ubuntucinnamon-meta (24.04.3.1) noble; urgency=medium
 
   * Refreshed dependencies
