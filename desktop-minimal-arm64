@@ -10,6 +10,7 @@ fontconfig
 fonts-dejavu-core
 foomatic-db-compressed-ppds
 ghostscript
+gnome-settings-daemon
 gvfs-fuse
 ibus
 ibus-gtk

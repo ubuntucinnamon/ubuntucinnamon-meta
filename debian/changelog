@@ -1,3 +1,12 @@
+ubuntucinnamon-meta (24.04.4) noble; urgency=medium
+
+  * Refreshed dependencies
+  * Added gnome-settings-daemon to desktop, desktop-minimal
+  * Added libspa-0.2-bluetooth to desktop-minimal-recommends, desktop-
+    recommends
+
+ -- Erich Eickmeyer <eeickmeyer@ubuntu.com>  Sun, 14 Apr 2024 10:00:19 -0700
+
 ubuntucinnamon-meta (24.04.3.1build1) noble; urgency=medium
 
   * No-change rebuild for CVE-2024-3094
