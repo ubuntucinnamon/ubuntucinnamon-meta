@@ -18,10 +18,10 @@ ibus-gtk3
 ibus-table
 initramfs-tools
 inputattach
+iw
 language-selector-common
 libsasl2-modules
 libu2f-udev
-lightdm
 nemo
 network-manager
 openprinting-ppds
@@ -38,10 +38,9 @@ ubuntu-drivers-common
 ubuntucinnamon-environment
 ubuntucinnamon-lightdm-theme
 ubuntucinnamon-wallpapers
-ubuntucinnamon-wallpapers-noble
+ubuntucinnamon-wallpapers-oracular
 unzip
 whoopsie
-wireless-tools
 wpasupplicant
 xdg-user-dirs
 xdg-utils

@@ -1,3 +1,16 @@
+ubuntucinnamon-meta (24.10) oracular; urgency=medium
+
+  * Refreshed dependencies
+  * Added iw to desktop-minimal
+  * Added kerneloops to desktop-recommends
+  * Added ubuntucinnamon-wallpapers-oracular to desktop, desktop-minimal
+  * Removed lightdm from desktop, desktop-minimal
+  * Removed ubuntucinnamon-wallpapers-noble from desktop, desktop-
+    minimal
+  * Removed wireless-tools from desktop-minimal
+
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Sun, 15 Sep 2024 08:26:14 -0400
+
 ubuntucinnamon-meta (24.04.4) noble; urgency=medium
 
   * Refreshed dependencies

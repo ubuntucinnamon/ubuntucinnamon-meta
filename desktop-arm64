@@ -8,7 +8,6 @@ ibus-gtk
 ibus-gtk3
 ibus-table
 initramfs-tools
-lightdm
 nemo
 network-manager
 orca
@@ -21,7 +20,7 @@ ubuntucinnamon-desktop-minimal
 ubuntucinnamon-environment
 ubuntucinnamon-lightdm-theme
 ubuntucinnamon-wallpapers
-ubuntucinnamon-wallpapers-noble
+ubuntucinnamon-wallpapers-oracular
 whoopsie
 xdg-user-dirs
 xdg-utils
