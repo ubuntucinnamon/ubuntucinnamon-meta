@@ -22,6 +22,7 @@ iw
 language-selector-common
 libsasl2-modules
 libu2f-udev
+lightdm
 nemo
 network-manager
 openprinting-ppds

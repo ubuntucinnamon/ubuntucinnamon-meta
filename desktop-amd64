@@ -8,6 +8,7 @@ ibus-gtk
 ibus-gtk3
 ibus-table
 initramfs-tools
+lightdm
 nemo
 network-manager
 orca
