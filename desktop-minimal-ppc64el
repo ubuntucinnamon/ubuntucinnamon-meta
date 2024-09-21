@@ -25,10 +25,13 @@ libu2f-udev
 lightdm
 nemo
 network-manager
+network-manager-gnome
+notification-daemon
 openprinting-ppds
 orca
 pipewire-audio
 plymouth-theme-ubuntucinnamon-spinner
+policykit-1-gnome
 printer-driver-pnm2ppa
 rfkill
 slick-greeter

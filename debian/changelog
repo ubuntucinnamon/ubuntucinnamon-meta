@@ -1,3 +1,12 @@
+ubuntucinnamon-meta (24.10.2) oracular; urgency=medium
+
+  * Refreshed dependencies
+  * Added network-manager-gnome to desktop, desktop-minimal
+  * Added notification-daemon to desktop, desktop-minimal
+  * Added policykit-1-gnome to desktop, desktop-minimal
+
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Sat, 21 Sep 2024 11:37:40 -0400
+
 ubuntucinnamon-meta (24.10.1) oracular; urgency=medium
 
   * Refreshed dependencies
