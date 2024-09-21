@@ -12,7 +12,7 @@ ubuntucinnamon-meta (24.10.2) oracular; urgency=medium
   * Refreshed dependencies
   * Added notification-daemon to desktop, desktop-minimal (LP: #2081309)
 
- -- Jeremy BÃ­cha <jbicha@ubuntu.com>  Sat, 21 Sep 2024 06:18:07 -0400
+ -- Jeremy Bí­cha <jbicha@ubuntu.com>  Sat, 21 Sep 2024 06:18:07 -0400
 
 ubuntucinnamon-meta (24.10.1) oracular; urgency=medium
 
