@@ -16,9 +16,11 @@ notification-daemon
 orca
 pipewire-audio
 plymouth-theme-ubuntucinnamon-spinner
+policykit-1-gnome
 slick-greeter
 software-properties-gtk
 ubuntu-advantage-tools
+ubuntucinnamon-desktop-minimal
 ubuntucinnamon-environment
 ubuntucinnamon-lightdm-theme
 ubuntucinnamon-wallpapers

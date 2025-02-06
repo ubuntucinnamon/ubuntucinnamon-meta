@@ -1,18 +1,3 @@
-ubuntucinnamon-meta (25.04.1) plucky; urgency=medium
-
-  * Welcome to Plucky Puffin!
-  * Refreshed dependencies
-  * Added fastfetch to desktop-minimal-recommends, desktop-recommends
-  * Added gnome-photos to desktop-minimal-recommends, desktop-recommends
-  * Added gnome-terminal to desktop-minimal-recommends, desktop-
-    recommends (LP: #2064166)
-  * Removed gimp from desktop-recommends [s390x]
-  * Removed neofetch from desktop-minimal-recommends, desktop-recommends
-  * Removed policykit-1-gnome from desktop, desktop-minimal
-  * Removed ubuntucinnamon-desktop-minimal from desktop [s390x]
-
- -- Erich Eickmeyer <eeickmeyer@ubuntu.com>  Thu, 06 Feb 2025 12:40:43 -0800
-
 ubuntucinnamon-meta (24.10.3) oracular; urgency=medium
 
   * Refreshed dependencies
