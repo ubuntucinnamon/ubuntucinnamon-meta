@@ -1,3 +1,10 @@
+ubuntucinnamon-meta (25.04.1) plucky; urgency=medium
+
+  * Welcome to Plucky Puffin!
+  * Correct the seed_base link.
+
+ -- Simon Quigley <tsimonq2@ubuntu.com>  Tue, 29 Oct 2024 20:17:46 -0500
+
 ubuntucinnamon-meta (24.10.3) oracular; urgency=medium
 
   * Refreshed dependencies
