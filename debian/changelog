@@ -1,3 +1,12 @@
+ubuntucinnamon-meta (25.04.4) plucky; urgency=medium
+
+  * Refreshed dependencies
+  * Added gnome-terminal to desktop-minimal-recommends, desktop-
+    recommends (LP: #2064166)
+  * Removed policykit-1-gnome from desktop, desktop-minimal
+
+ -- Erich Eickmeyer <eeickmeyer@ubuntu.com>  Thu, 06 Feb 2025 14:54:35 -0800
+
 ubuntucinnamon-meta (25.04.3) plucky; urgency=medium
 
   * Refreshed dependencies
