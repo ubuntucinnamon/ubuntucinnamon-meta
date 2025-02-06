@@ -1,8 +1,8 @@
 deja-dup
 evince
+fastfetch
 file-roller
 gedit
-gimp
 gnome-2048
 gnome-accessibility-themes
 gnome-calculator
@@ -12,12 +12,14 @@ gnome-disk-utility
 gnome-font-viewer
 gnome-icon-theme
 gnome-mahjongg
+gnome-photos
 gnome-power-manager
 gnome-screenshot
 gnome-software
 gnome-software-plugin-snap
 gnome-sudoku
 gnome-system-monitor
+gnome-terminal
 gthumb
 kerneloops
 language-pack-de
@@ -32,7 +34,6 @@ libreoffice-impress
 libreoffice-writer
 libspa-0.2-bluetooth
 nemo-fileroller
-neofetch
 rhythmbox
 simple-scan
 speech-dispatcher

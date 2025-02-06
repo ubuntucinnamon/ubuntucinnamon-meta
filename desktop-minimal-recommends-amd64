@@ -6,6 +6,7 @@ cups-bsd
 cups-client
 cups-filters
 evince
+fastfetch
 file-roller
 fonts-liberation
 fonts-noto-cjk
@@ -21,11 +22,13 @@ gnome-calendar
 gnome-disk-utility
 gnome-font-viewer
 gnome-icon-theme
+gnome-photos
 gnome-power-manager
 gnome-screenshot
 gnome-software
 gnome-software-plugin-snap
 gnome-system-monitor
+gnome-terminal
 gthumb
 hplip
 kerneloops
@@ -39,7 +42,6 @@ libnss-mdns
 libspa-0.2-bluetooth
 memtest86+
 nemo-fileroller
-neofetch
 packagekit
 pcmciautils
 policykit-desktop-privileges
