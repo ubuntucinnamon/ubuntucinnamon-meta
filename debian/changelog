@@ -1,3 +1,12 @@
+ubuntucinnamon-meta (25.04.3) plucky; urgency=medium
+
+  * Refreshed dependencies
+  * Added fastfetch to desktop-minimal-recommends, desktop-recommends
+  * Added gnome-photos to desktop-minimal-recommends, desktop-recommends
+  * Removed neofetch from desktop-minimal-recommends, desktop-recommends
+
+ -- Simon Quigley <tsimonq2@ubuntu.com>  Sat, 04 Jan 2025 21:18:59 -0600
+
 ubuntucinnamon-meta (25.04.2) plucky; urgency=medium
 
   * Stop building for s390x

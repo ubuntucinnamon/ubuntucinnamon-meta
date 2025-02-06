@@ -1,5 +1,6 @@
 deja-dup
 evince
+fastfetch
 file-roller
 gedit
 gimp
@@ -12,6 +13,7 @@ gnome-disk-utility
 gnome-font-viewer
 gnome-icon-theme
 gnome-mahjongg
+gnome-photos
 gnome-power-manager
 gnome-screenshot
 gnome-software
@@ -32,7 +34,6 @@ libreoffice-impress
 libreoffice-writer
 libspa-0.2-bluetooth
 nemo-fileroller
-neofetch
 rhythmbox
 simple-scan
 speech-dispatcher
