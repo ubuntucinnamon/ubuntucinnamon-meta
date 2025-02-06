@@ -1,3 +1,11 @@
+ubuntucinnamon-meta (24.04.4.1) noble; urgency=medium
+
+  * Refreshed dependencies
+  * Added gnome-terminal to desktop-minimal-recommends, desktop-
+    recommends (LP: #2064166)
+
+ -- Erich Eickmeyer <eeickmeyer@ubuntu.com>  Thu, 06 Feb 2025 12:22:30 -0800
+
 ubuntucinnamon-meta (24.04.4) noble; urgency=medium
 
   * Refreshed dependencies
