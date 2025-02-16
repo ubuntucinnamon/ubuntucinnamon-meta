@@ -1,3 +1,29 @@
+ubuntucinnamon-meta (25.04.5) plucky; urgency=medium
+
+  * Refreshed dependencies
+  * Removed evince from desktop-minimal-recommends
+  * Removed gnome-disk-utility from desktop-minimal-recommends
+  * Removed gnome-font-viewer from desktop-minimal-recommends
+  * Removed gnome-photos from desktop-minimal-recommends
+  * Removed gnome-settings-daemon from desktop, desktop-minimal
+  * Removed kerneloops from desktop-minimal-recommends, desktop-
+    recommends
+  * Removed language-pack-de from desktop-minimal-recommends, desktop-
+    recommends
+  * Removed language-pack-es from desktop-minimal-recommends, desktop-
+    recommends
+  * Removed language-pack-fr from desktop-minimal-recommends, desktop-
+    recommends
+  * Removed language-pack-pt from desktop-minimal-recommends, desktop-
+    recommends
+  * Removed language-pack-ru from desktop-minimal-recommends, desktop-
+    recommends
+  * Removed nemo-fileroller from desktop-minimal-recommends
+  * Removed network-manager-gnome from desktop, desktop-minimal
+  * Removed synaptic from desktop-minimal-recommends
+
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Sun, 16 Feb 2025 12:36:06 -0500
+
 ubuntucinnamon-meta (25.04.4) plucky; urgency=medium
 
   * Refreshed dependencies

@@ -1,7 +1,6 @@
 cinnamon
 cinnamon-desktop-environment
 doc-base
-gnome-settings-daemon
 gvfs-fuse
 ibus
 ibus-gtk
@@ -11,7 +10,6 @@ initramfs-tools
 lightdm
 nemo
 network-manager
-network-manager-gnome
 notification-daemon
 orca
 pipewire-audio

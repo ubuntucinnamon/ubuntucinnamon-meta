@@ -5,7 +5,6 @@ cups
 cups-bsd
 cups-client
 cups-filters
-evince
 fastfetch
 file-roller
 fonts-liberation
@@ -18,10 +17,7 @@ gedit
 gnome-accessibility-themes
 gnome-calculator
 gnome-calendar
-gnome-disk-utility
-gnome-font-viewer
 gnome-icon-theme
-gnome-photos
 gnome-power-manager
 gnome-screenshot
 gnome-software
@@ -30,16 +26,9 @@ gnome-system-monitor
 gnome-terminal
 gthumb
 hplip
-kerneloops
-language-pack-de
-language-pack-es
-language-pack-fr
-language-pack-pt
-language-pack-ru
 laptop-detect
 libnss-mdns
 libspa-0.2-bluetooth
-nemo-fileroller
 packagekit
 pcmciautils
 policykit-desktop-privileges
@@ -54,5 +43,4 @@ printer-driver-sag-gdi
 printer-driver-splix
 snapd
 speech-dispatcher
-synaptic
 update-notifier

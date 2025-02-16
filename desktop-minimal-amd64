@@ -10,7 +10,6 @@ fontconfig
 fonts-dejavu-core
 foomatic-db-compressed-ppds
 ghostscript
-gnome-settings-daemon
 gvfs-fuse
 ibus
 ibus-gtk
@@ -25,7 +24,6 @@ libu2f-udev
 lightdm
 nemo
 network-manager
-network-manager-gnome
 notification-daemon
 openprinting-ppds
 orca
