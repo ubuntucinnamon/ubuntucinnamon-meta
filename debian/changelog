@@ -1,3 +1,11 @@
+ubuntucinnamon-meta (25.04.7) plucky; urgency=medium
+
+  * Refreshed dependencies
+  * Added va-driver-all to desktop-minimal-recommends, desktop-
+    recommends (LP: #2104767)
+
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Fri, 28 Mar 2025 13:07:51 -0400
+
 ubuntucinnamon-meta (25.04.6) plucky; urgency=medium
 
   * Refreshed dependencies
