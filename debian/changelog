@@ -1,10 +1,15 @@
 ubuntucinnamon-meta (25.10.1) questing; urgency=medium
 
   * Refreshed dependencies
-  * Added xserver-xorg to desktop, desktop-minimal (LP: #2114015)
-  * Removed gnome-photos from desktop-recommends (LP: #2107560)
+  * Added xserver-xorg to desktop, desktop-minimal
+  * Added ubuntucinnamon-wallpapers-questing to desktop, desktop-minimal
+  * Removed gnome-photos from desktop-recommends
+  * Removed libu2f-udev from desktop-minimal (LP: #1876917)
+  * Removed ubuntucinnamon-wallpapers-plucky from desktop, desktop-
+    minimal
+  * Removed xorg from desktop-minimal
 
- -- Joshua Peisach <itzswirlz2020@outlook.com>  Sun, 06 Jul 2025 15:56:01 -0400
+ -- Joshua Peisach <itzswirlz2020@outlook.com>  Tue, 02 Sep 2025 10:26:54 -0400
 
 ubuntucinnamon-meta (25.04.7) plucky; urgency=medium
 
