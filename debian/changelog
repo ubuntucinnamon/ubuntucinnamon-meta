@@ -1,3 +1,10 @@
+ubuntucinnamon-meta (25.10.2) questing; urgency=medium
+
+  * Refreshed dependencies
+  * Removed lightdm from desktop, desktop-minimal
+
+ -- Erich Eickmeyer <eeickmeyer@ubuntu.com>  Sat, 13 Sep 2025 07:49:56 -0700
+
 ubuntucinnamon-meta (25.10.1) questing; urgency=medium
 
   * Refreshed dependencies

@@ -20,7 +20,6 @@ inputattach
 iw
 language-selector-common
 libsasl2-modules
-lightdm
 nemo
 network-manager
 notification-daemon
