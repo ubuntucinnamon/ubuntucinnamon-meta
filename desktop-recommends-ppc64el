@@ -2,6 +2,7 @@ deja-dup
 evince
 fastfetch
 file-roller
+font-manager
 gedit
 gimp
 gnome-2048
@@ -10,7 +11,6 @@ gnome-calculator
 gnome-calendar
 gnome-chess
 gnome-disk-utility
-gnome-font-viewer
 gnome-icon-theme
 gnome-mahjongg
 gnome-power-manager
@@ -28,9 +28,11 @@ libreoffice-impress
 libreoffice-writer
 libspa-0.2-bluetooth
 nemo-fileroller
+nemo-font-manager
 rhythmbox
 simple-scan
 speech-dispatcher
 synaptic
+totem
 update-notifier
 va-driver-all
