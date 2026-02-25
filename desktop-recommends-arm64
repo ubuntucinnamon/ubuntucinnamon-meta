@@ -16,6 +16,8 @@ gnome-mahjongg
 gnome-power-manager
 gnome-screenshot
 gnome-software
+gnome-software-plugin-deb
+gnome-software-plugin-fwupd
 gnome-software-plugin-snap
 gnome-sudoku
 gnome-system-monitor

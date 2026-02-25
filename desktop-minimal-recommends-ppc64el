@@ -21,6 +21,8 @@ gnome-icon-theme
 gnome-power-manager
 gnome-screenshot
 gnome-software
+gnome-software-plugin-deb
+gnome-software-plugin-fwupd
 gnome-software-plugin-snap
 gnome-system-monitor
 gnome-terminal

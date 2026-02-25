@@ -1,3 +1,13 @@
+ubuntucinnamon-meta (26.04.2) resolute; urgency=medium
+
+  * Refreshed dependencies
+  * Added gnome-software-plugin-deb to desktop-minimal-recommends,
+    desktop-recommends
+  * Added gnome-software-plugin-fwupd to desktop-minimal-recommends,
+    desktop-recommends
+
+ -- Joshua Peisach <jpeisach@ubuntu.com>  Wed, 25 Feb 2026 12:28:19 -0500
+
 ubuntucinnamon-meta (26.04.1) resolute; urgency=medium
 
   * Welcome to Resolute Raccoon!
