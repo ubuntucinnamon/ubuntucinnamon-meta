@@ -1,3 +1,12 @@
+ubuntucinnamon-meta (26.04.3) resolute; urgency=medium
+
+  * Refreshed dependencies
+  * Added ubuntucinnamon-wallpapers-resolute to desktop, desktop-minimal
+  * Removed ubuntucinnamon-wallpapers-questing from desktop, desktop-
+    minimal
+
+ -- Joshua Peisach <jpeisach@ubuntu.com>  Sat, 07 Mar 2026 08:13:12 -0500
+
 ubuntucinnamon-meta (26.04.2) resolute; urgency=medium
 
   * Refreshed dependencies
