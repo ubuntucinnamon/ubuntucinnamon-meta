@@ -1,12 +1,12 @@
 cinnamon
 cinnamon-desktop-environment
 doc-base
+dracut
 gvfs-fuse
 ibus
 ibus-gtk
 ibus-gtk3
 ibus-table
-initramfs-tools
 nemo
 network-manager
 notification-daemon

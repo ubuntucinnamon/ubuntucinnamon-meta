@@ -1,3 +1,11 @@
+ubuntucinnamon-meta (26.04.4) resolute; urgency=medium
+
+  * Refreshed dependencies
+  * Added dracut to desktop, desktop-minimal (LP: #2144704)
+  * Removed initramfs-tools from desktop, desktop-minimal
+
+ -- Joshua Peisach <jpeisach@ubuntu.com>  Tue, 17 Mar 2026 19:25:56 -0400
+
 ubuntucinnamon-meta (26.04.3) resolute; urgency=medium
 
   * Refreshed dependencies

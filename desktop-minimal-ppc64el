@@ -6,6 +6,7 @@ ca-certificates
 cinnamon
 cinnamon-desktop-environment
 doc-base
+dracut
 fontconfig
 fonts-dejavu-core
 foomatic-db-compressed-ppds
@@ -15,7 +16,6 @@ ibus
 ibus-gtk
 ibus-gtk3
 ibus-table
-initramfs-tools
 inputattach
 iw
 language-selector-common
