@@ -32,7 +32,6 @@ hplip
 laptop-detect
 libnss-mdns
 libspa-0.2-bluetooth
-memtest86+
 packagekit
 pcmciautils
 policykit-desktop-privileges

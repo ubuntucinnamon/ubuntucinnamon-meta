@@ -1,3 +1,15 @@
+ubuntucinnamon-meta (26.10.1) stonking; urgency=medium
+
+  * stonking stingray (insert stonks meme here)
+  * Refreshed dependencies
+  * Removed memtest86+ from desktop-minimal-recommends [amd64]
+  * Refreshed dependencies
+  * Added ubuntucinnamon-wallpapers-stonking to desktop, desktop-minimal
+  * Removed ubuntucinnamon-wallpapers-resolute from desktop, desktop-
+    minimal
+
+ -- Joshua Peisach <jpeisach@ubuntu.com>  Fri, 18 Sep 2026 17:42:23 -0400
+
 ubuntucinnamon-meta (26.04.4) resolute; urgency=medium
 
   * Refreshed dependencies
