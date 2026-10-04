@@ -1,5 +1,5 @@
+blueman
 cinnamon
-cinnamon-desktop-environment
 doc-base
 dracut
 gvfs-fuse
@@ -23,6 +23,7 @@ ubuntucinnamon-wallpapers
 ubuntucinnamon-wallpapers-stonking
 whoopsie
 xdg-user-dirs
+xdg-user-dirs-gtk
 xdg-utils
 xserver-xorg
 yaru-cinnamon-theme-gtk

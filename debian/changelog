@@ -1,3 +1,40 @@
+ubuntucinnamon-meta (26.10.2) stonking; urgency=medium
+
+  * Refreshed dependencies
+  * Added atril to desktop-minimal-recommends, desktop-recommends
+  * Added blueman to desktop, desktop-minimal
+  * Added brasero to desktop-recommends
+  * Added eog to desktop-minimal-recommends, desktop-recommends
+  * Added gdebi to desktop-recommends
+  * Added gedit-plugins to desktop-recommends
+  * Added gnome-characters to desktop-recommends
+  * Added gnome-games to desktop-recommends
+  * Added gnome-logs to desktop-recommends
+  * Added gnome-snapshot to desktop-recommends
+  * Added gnome-sound-recorder to desktop-recommends
+  * Added gnote to desktop-recommends
+  * Added gstreamer1.0-libav to desktop-recommends
+  * Added gstreamer1.0-plugins-ugly to desktop-recommends
+  * Added libreoffice-gnome to desktop-recommends
+  * Added low-memory-monitor to desktop-recommends
+  * Added pidgin to desktop-recommends
+  * Added remmina to desktop-recommends
+  * Added rhythmbox-plugin-cdrecorder to desktop-recommends
+  * Added rhythmbox-plugins to desktop-recommends
+  * Added seahorse to desktop-recommends
+  * Added shotwell to desktop-recommends
+  * Added sound-juicer to desktop-recommends
+  * Added system-config-printer to desktop-recommends
+  * Added transmission-gtk to desktop-recommends
+  * Added x11vnc to desktop-recommends
+  * Added xdg-user-dirs-gtk to desktop, desktop-minimal
+  * Added yelp to desktop-recommends
+  * Added zenity to desktop-recommends
+  * Added zoitechat to desktop-recommends
+  * Removed cinnamon-desktop-environment from desktop, desktop-minimal
+
+ -- Joshua Peisach <jpeisach@ubuntu.com>  Sun, 04 Oct 2026 14:56:42 -0400
+
 ubuntucinnamon-meta (26.10.1) stonking; urgency=medium
 
   * stonking stingray (insert stonks meme here)

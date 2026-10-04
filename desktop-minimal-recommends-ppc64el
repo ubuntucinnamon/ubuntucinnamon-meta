@@ -1,3 +1,4 @@
+atril
 avahi-daemon
 bluez
 bluez-cups
@@ -5,6 +6,7 @@ cups
 cups-bsd
 cups-client
 cups-filters
+eog
 fastfetch
 file-roller
 fonts-liberation

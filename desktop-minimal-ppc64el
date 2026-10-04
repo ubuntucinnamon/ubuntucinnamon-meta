@@ -2,9 +2,9 @@ alsa-base
 alsa-utils
 anacron
 bc
+blueman
 ca-certificates
 cinnamon
-cinnamon-desktop-environment
 doc-base
 dracut
 fontconfig
@@ -42,6 +42,7 @@ unzip
 whoopsie
 wpasupplicant
 xdg-user-dirs
+xdg-user-dirs-gtk
 xdg-utils
 xkb-data
 xserver-xorg
