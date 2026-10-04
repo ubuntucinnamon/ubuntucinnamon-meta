@@ -14,6 +14,7 @@ ubuntucinnamon-meta (26.10.2) stonking; urgency=medium
   * Added gnome-sound-recorder to desktop-recommends
   * Added gnote to desktop-recommends
   * Added gstreamer1.0-libav to desktop-recommends
+  * Added gstreamer1.0-plugins-good to desktop, desktop-minimal
   * Added gstreamer1.0-plugins-ugly to desktop-recommends
   * Added libreoffice-gnome to desktop-recommends
   * Added low-memory-monitor to desktop-recommends
@@ -33,7 +34,7 @@ ubuntucinnamon-meta (26.10.2) stonking; urgency=medium
   * Added zoitechat to desktop-recommends
   * Removed cinnamon-desktop-environment from desktop, desktop-minimal
 
- -- Joshua Peisach <jpeisach@ubuntu.com>  Sun, 04 Oct 2026 14:56:42 -0400
+ -- Joshua Peisach <jpeisach@ubuntu.com>  Sun, 04 Oct 2026 15:05:43 -0400
 
 ubuntucinnamon-meta (26.10.1) stonking; urgency=medium
 

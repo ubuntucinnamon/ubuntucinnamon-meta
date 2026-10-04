@@ -11,6 +11,7 @@ fontconfig
 fonts-dejavu-core
 foomatic-db-compressed-ppds
 ghostscript
+gstreamer1.0-plugins-good
 gvfs-fuse
 ibus
 ibus-gtk
