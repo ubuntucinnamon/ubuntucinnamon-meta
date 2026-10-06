@@ -21,6 +21,7 @@ inputattach
 iw
 language-selector-common
 libsasl2-modules
+libspa-0.2-bluetooth
 nemo
 network-manager
 notification-daemon

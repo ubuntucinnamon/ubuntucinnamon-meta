@@ -8,6 +8,7 @@ ibus
 ibus-gtk
 ibus-gtk3
 ibus-table
+libspa-0.2-bluetooth
 nemo
 network-manager
 notification-daemon

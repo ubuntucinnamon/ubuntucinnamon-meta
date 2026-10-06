@@ -1,3 +1,10 @@
+ubuntucinnamon-meta (26.10.3) stonking; urgency=medium
+
+  * Refreshed dependencies
+  * Moved libspa-0.2-bluetooth to desktop, desktop-minimal
+
+ -- Joshua Peisach <jpeisach@ubuntu.com>  Tue, 06 Oct 2026 15:30:21 -0400
+
 ubuntucinnamon-meta (26.10.2) stonking; urgency=medium
 
   * Refreshed dependencies
