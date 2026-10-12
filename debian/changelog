@@ -1,3 +1,10 @@
+ubuntucinnamon-meta (26.10.4) stonking; urgency=medium
+
+  * Refreshed dependencies
+  * Added policykit-1-gnome to desktop, desktop-minimal (LP: #2170593)
+
+ -- Erich Eickmeyer <eeickmeyer@ubuntu.com>  Mon, 12 Oct 2026 09:45:51 -0700
+
 ubuntucinnamon-meta (26.10.3) stonking; urgency=medium
 
   * Refreshed dependencies
